@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "lastUpdated": "2026-02-20",
   "questions": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": 5,
-      "question": "What is the name of Shane's childhood best friend and teammate?",
+      "question": "What is the name of Shane's best friend and teammate?",
       "options": [
         "J.J. Boiziau",
         "Hayden Pike",
@@ -91,7 +91,7 @@
       "question": "What is the name of Ilya's close friend and frequent \"beard\" in Russia?",
       "options": [
         "Maria",
-        "Svetlana Vetrova",
+        "Svetlana",
         "Elena",
         "Polina"
       ],
