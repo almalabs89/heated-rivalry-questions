@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "lastUpdated": "2026-02-20",
   "questions": [
     {
       "id": 1,
       "question": "In which city do Shane and Ilya first meet as teenagers?",
       "options": [
-        "Torontooooo",
+        "Toronto",
         "Montreal",
         "Saskatchewan",
         "Moscow"
