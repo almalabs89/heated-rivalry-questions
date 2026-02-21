@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "lastUpdated": "2026-02-21",
   "questions": [
     {
@@ -1063,7 +1063,7 @@
         "He has a bear tattoo",
         "He is significantly taller than Shane",
         "He has red hair",
-        "Both A and B"
+        "Both tattoo and his height"
       ],
       "correctAnswer": 3,
       "source": "tvshow",
@@ -1271,7 +1271,7 @@
         "French",
         "Russian",
         "Japanese",
-        "Both A and B"
+        "Both French and Russian"
       ],
       "correctAnswer": 3,
       "source": "tvshow",
@@ -1361,8 +1361,8 @@
       "options": [
         "Tyrone Edwards",
         "Lainey Lui",
-        "Both A and B",
-        "None of the above"
+        "Both",
+        "None"
       ],
       "correctAnswer": 2,
       "source": "tvshow",
