@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "lastUpdated": "2026-02-21",
   "questions": [
     {
@@ -864,7 +864,7 @@
       "id": 126,
       "question": "Which actress plays Rose Landry, the famous actress Shane dates for PR?",
       "options": [
-        "Sophie N?lisse",
+        "Sophie Nélisse",
         "Kamilla Kowal",
         "Ksenia Daniela Kharlamova",
         "Nadine Bhabha"
@@ -1658,7 +1658,7 @@
       "question": "Which actress plays Jackie Pike, Hayden's wife?",
       "options": [
         "Kamilla Kowal",
-        "Sophie N?lisse",
+        "Sophie Nélisse",
         "Nadine Bhabha",
         "Bianca Nugara"
       ],
