@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "lastUpdated": "2026-02-21",
   "questions": [
     {
@@ -1756,6 +1756,19 @@
       "correctAnswer": 0,
       "source": "book1",
       "difficulty": "easy"
+    },
+    {
+      "id": 217,
+      "question": "Ilya is well-known for being an avid collector of which of the following?",
+      "options": [
+        "Vintage watches",
+        "Luxury sports cars",
+        "High-end real estate",
+        "Rare designer sneakers"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
     }
   ]
 }
