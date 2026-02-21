@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.1",
   "lastUpdated": "2026-02-21",
   "questions": [
     {
@@ -13,7 +13,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 10,
@@ -117,7 +117,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 11,
@@ -130,7 +130,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 12,
@@ -143,7 +143,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 14,
@@ -156,7 +156,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 15,
@@ -169,7 +169,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 17,
@@ -182,7 +182,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 19,
@@ -208,7 +208,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 20,
@@ -221,7 +221,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 21,
@@ -234,7 +234,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 22,
@@ -247,7 +247,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 24,
@@ -260,7 +260,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 25,
@@ -273,7 +273,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 27,
@@ -286,7 +286,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 28,
@@ -299,7 +299,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 30,
@@ -312,7 +312,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 31,
@@ -325,7 +325,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 33,
@@ -338,7 +338,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 34,
@@ -351,7 +351,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 35,
@@ -364,7 +364,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 36,
@@ -377,7 +377,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 38,
@@ -390,7 +390,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 39,
@@ -403,7 +403,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 40,
@@ -416,7 +416,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 41,
@@ -429,7 +429,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 42,
@@ -442,7 +442,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 43,
@@ -455,7 +455,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 45,
@@ -468,7 +468,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 47,
@@ -481,7 +481,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 48,
@@ -494,7 +494,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 49,
@@ -507,7 +507,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 50,
@@ -520,7 +520,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 52,
@@ -533,7 +533,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 56,
@@ -546,7 +546,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 57,
@@ -559,7 +559,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 62,
@@ -572,7 +572,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 64,
@@ -585,7 +585,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 70,
@@ -598,7 +598,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 75,
@@ -611,7 +611,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 78,
@@ -624,7 +624,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 81,
@@ -637,7 +637,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 82,
@@ -650,7 +650,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 84,
@@ -663,7 +663,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 87,
@@ -676,7 +676,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 90,
@@ -689,7 +689,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 95,
@@ -702,7 +702,7 @@
       ],
       "correctAnswer": 0,
       "source": "book1",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 97,
@@ -715,7 +715,7 @@
       ],
       "correctAnswer": 1,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 99,
@@ -728,7 +728,7 @@
       ],
       "correctAnswer": 2,
       "source": "book1",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 116,
@@ -741,8 +741,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
-      
+      "difficulty": "easy"
     },
     {
       "id": 117,
@@ -750,25 +749,25 @@
       "options": [
         "Connor Storrie",
         "Hudson Williams",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Callan Potter"
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 118,
       "question": "Which actor portrays Ilya Rozanov?",
       "options": [
         "Hudson Williams",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Connor Storrie",
         "Franco Lo Presti"
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 119,
@@ -781,7 +780,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 120,
@@ -794,7 +793,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 121,
@@ -807,7 +806,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 122,
@@ -820,7 +819,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 123,
@@ -828,16 +827,16 @@
       "options": [
         "Hans Zimmer",
         "Peter Peter",
-        "Ludwig Göransson",
+        "Ludwig G?ransson",
         "Rachel Reid"
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 124,
-      "question": "Actor François Arnaud, who plays Scott Hunter, is known for what personal disclosure in 2020?",
+      "question": "Actor Fran?ois Arnaud, who plays Scott Hunter, is known for what personal disclosure in 2020?",
       "options": [
         "He is a professional hockey player",
         "He is an out bisexual man",
@@ -846,7 +845,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 125,
@@ -859,20 +858,20 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 126,
       "question": "Which actress plays Rose Landry, the famous actress Shane dates for PR?",
       "options": [
-        "Sophie Nélisse",
+        "Sophie N?lisse",
         "Kamilla Kowal",
         "Ksenia Daniela Kharlamova",
         "Nadine Bhabha"
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 127,
@@ -885,7 +884,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 128,
@@ -898,7 +897,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 129,
@@ -911,7 +910,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 131,
@@ -924,7 +923,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 132,
@@ -937,7 +936,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 133,
@@ -950,7 +949,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 134,
@@ -963,7 +962,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 135,
@@ -976,7 +975,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 136,
@@ -989,7 +988,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 138,
@@ -1002,7 +1001,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 139,
@@ -1015,7 +1014,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 140,
@@ -1023,12 +1022,12 @@
       "options": [
         "Matt Gordon",
         "Dylan Walsh",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Wayne Ward"
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 141,
@@ -1041,7 +1040,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 142,
@@ -1054,7 +1053,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 143,
@@ -1067,7 +1066,7 @@
       ],
       "correctAnswer": 3,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 144,
@@ -1080,7 +1079,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 146,
@@ -1093,7 +1092,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 147,
@@ -1106,7 +1105,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 148,
@@ -1119,7 +1118,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 149,
@@ -1132,7 +1131,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 150,
@@ -1145,7 +1144,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 151,
@@ -1158,7 +1157,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 152,
@@ -1171,7 +1170,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 153,
@@ -1184,7 +1183,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 156,
@@ -1197,7 +1196,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 157,
@@ -1210,7 +1209,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 158,
@@ -1223,7 +1222,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 159,
@@ -1236,7 +1235,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 161,
@@ -1249,7 +1248,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 162,
@@ -1262,7 +1261,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 163,
@@ -1275,7 +1274,7 @@
       ],
       "correctAnswer": 3,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 167,
@@ -1288,7 +1287,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 168,
@@ -1301,7 +1300,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 169,
@@ -1314,7 +1313,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 171,
@@ -1327,7 +1326,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 173,
@@ -1340,7 +1339,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 177,
@@ -1353,7 +1352,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 178,
@@ -1366,7 +1365,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 180,
@@ -1379,7 +1378,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 181,
@@ -1392,7 +1391,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 182,
@@ -1405,7 +1404,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 183,
@@ -1418,7 +1417,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 184,
@@ -1431,7 +1430,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 185,
@@ -1444,7 +1443,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 186,
@@ -1457,7 +1456,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 188,
@@ -1470,7 +1469,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 189,
@@ -1483,7 +1482,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 190,
@@ -1496,7 +1495,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 191,
@@ -1509,7 +1508,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 192,
@@ -1522,7 +1521,7 @@
       ],
       "correctAnswer": 3,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 193,
@@ -1535,7 +1534,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 194,
@@ -1548,7 +1547,7 @@
       ],
       "correctAnswer": 2,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 195,
@@ -1561,7 +1560,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 196,
@@ -1574,7 +1573,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 198,
@@ -1587,7 +1586,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 199,
@@ -1600,7 +1599,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 200,
@@ -1613,7 +1612,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 201,
@@ -1626,7 +1625,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 202,
@@ -1639,7 +1638,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 203,
@@ -1652,20 +1651,20 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 205,
       "question": "Which actress plays Jackie Pike, Hayden's wife?",
       "options": [
         "Kamilla Kowal",
-        "Sophie Nélisse",
+        "Sophie N?lisse",
         "Nadine Bhabha",
         "Bianca Nugara"
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 206,
@@ -1678,7 +1677,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"hard"
+      "difficulty": "hard"
     },
     {
       "id": 210,
@@ -1691,7 +1690,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
     },
     {
       "id": 211,
@@ -1704,7 +1703,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 212,
@@ -1717,7 +1716,7 @@
       ],
       "correctAnswer": 1,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 214,
@@ -1730,7 +1729,7 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"easy"
+      "difficulty": "easy"
     },
     {
       "id": 215,
@@ -1743,7 +1742,20 @@
       ],
       "correctAnswer": 0,
       "source": "tvshow",
-      "difficulty":"medium"
+      "difficulty": "medium"
+    },
+    {
+      "id": 216,
+      "question": "What specific physical feature of Shane's does Ilya pay attention to the most when they first met?",
+      "options": [
+        "Freckles",
+        "Eyes",
+        "Hair",
+        "Cheekbones"
+      ],
+      "correctAnswer": 0,
+      "source": "book1",
+      "difficulty": "easy"
     }
   ]
 }
