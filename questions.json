@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "lastUpdated": "2026-02-20",
+  "version": "1.0.4",
+  "lastUpdated": "2026-02-21",
   "questions": [
     {
       "id": 1,
@@ -12,7 +12,8 @@
         "Moscow"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
         "91"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 3,
@@ -36,7 +38,8 @@
         "10th overall"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 4,
@@ -48,7 +51,8 @@
         "Toronto Titans"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 5,
@@ -60,7 +64,8 @@
         "Scott Hunter"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 6,
@@ -72,7 +77,8 @@
         "Club Sandwich"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 7,
@@ -84,7 +90,8 @@
         "Jackie Pike"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 8,
@@ -96,7 +103,8 @@
         "Polina"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 10,
@@ -108,7 +116,8 @@
         "Maine"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 11,
@@ -120,7 +129,8 @@
         "Viktor"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 12,
@@ -132,7 +142,8 @@
         "German"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 14,
@@ -144,7 +155,8 @@
         "Hayden Pike"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 15,
@@ -156,7 +168,8 @@
         "Orange Juice"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 17,
@@ -168,7 +181,8 @@
         "Darling"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 18,
@@ -180,7 +194,8 @@
         "Ivan"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 19,
@@ -192,7 +207,8 @@
         "Elena"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 20,
@@ -204,7 +220,8 @@
         "Ottawa"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 21,
@@ -216,7 +233,8 @@
         "January 1, 1991"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 22,
@@ -228,7 +246,8 @@
         "Heart attack"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 24,
@@ -240,7 +259,8 @@
         "91"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 25,
@@ -252,7 +272,8 @@
         "Cliff Marlow"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 27,
@@ -264,7 +285,8 @@
         "2011"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 28,
@@ -276,7 +298,8 @@
         "Selke Trophy"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 30,
@@ -288,7 +311,8 @@
         "Gym shorts"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 31,
@@ -300,7 +324,8 @@
         "Sochi, Russia"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 33,
@@ -312,7 +337,8 @@
         "Businessman"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 34,
@@ -324,7 +350,8 @@
         "AHL"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 35,
@@ -336,7 +363,8 @@
         "0"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 36,
@@ -348,7 +376,8 @@
         "J.J. Boiziau"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 38,
@@ -360,7 +389,8 @@
         "Silver"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 39,
@@ -372,7 +402,8 @@
         "He's dating someone else"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 40,
@@ -384,7 +415,8 @@
         "Maria"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 41,
@@ -396,7 +428,8 @@
         "Scorpio"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 42,
@@ -408,7 +441,8 @@
         "Kingston"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 43,
@@ -420,7 +454,8 @@
         "Chief"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 45,
@@ -432,7 +467,8 @@
         "He doesn't think Ilya is serious"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 47,
@@ -444,7 +480,8 @@
         "The Ice Clash"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 48,
@@ -456,7 +493,8 @@
         "Calls his brother"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 49,
@@ -468,7 +506,8 @@
         "10 years"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 50,
@@ -480,7 +519,8 @@
         "The Bodyguard"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 52,
@@ -492,7 +532,8 @@
         "Toronto"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 56,
@@ -504,7 +545,8 @@
         "Patrice Drapeau"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 57,
@@ -516,7 +558,8 @@
         "Yuna"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 62,
@@ -528,7 +571,8 @@
         "2020"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 64,
@@ -540,7 +584,8 @@
         "Seaport"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 70,
@@ -552,7 +597,8 @@
         "A specific energy bar"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 75,
@@ -564,7 +610,8 @@
         "New York"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 78,
@@ -576,7 +623,8 @@
         "They are from the same hometown"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 81,
@@ -588,7 +636,8 @@
         "Florida"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 82,
@@ -600,7 +649,8 @@
         "It's very formal"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 84,
@@ -612,7 +662,8 @@
         "3"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"hard"
     },
     {
       "id": 87,
@@ -624,7 +675,8 @@
         "The nice Canadians"
       ],
       "correctAnswer": 2,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 90,
@@ -636,7 +688,8 @@
         "Teddy Tyler"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 95,
@@ -648,7 +701,8 @@
         "3"
       ],
       "correctAnswer": 0,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"easy"
     },
     {
       "id": 97,
@@ -660,7 +714,8 @@
         "Kneeing"
       ],
       "correctAnswer": 1,
-      "source": "book1"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 99,
@@ -672,2647 +727,8 @@
         "Gym shorts"
       ],
       "correctAnswer": 2,
-      "source": "book1"
-    },
-    {
-      "id": 101,
-      "question": "How many years after the end of Heated Rivalry does The Long Game begin?",
-      "options": [
-        "1 year",
-        "2 years",
-        "4 years",
-        "5 years"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 102,
-      "question": "Which team does Ilya Rozanov join at the start of the book?",
-      "options": [
-        "Boston Bears",
-        "Ottawa Senators",
-        "Montreal Voyageurs",
-        "New York Admirals"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 103,
-      "question": "What is the main reason Ilya moved to Montreal?",
-      "options": [
-        "To win another Stanley Cup",
-        "He was traded against his will",
-        "To finally live in the same city as Shane",
-        "He hated his coach in Boston"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 104,
-      "question": "What is Shane Hollander's role on the Montreal Voyageurs?",
-      "options": [
-        "Alternate Captain",
-        "Captain",
-        "Starting Goalie",
-        "Fourth-line grinder"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 105,
-      "question": "What is the name of the cat Shane and Ilya adopt?",
-      "options": [
-        "Boris",
-        "Vlad",
-        "Misha",
-        "Yuri"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 106,
-      "question": "What is the specific breed/description of Misha?",
-      "options": [
-        "A ginger tabby",
-        "A fluffy grey cat",
-        "A hairless Sphynx",
-        "A black shorthair"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 107,
-      "question": "Where is Shane and Ilya's condo located?",
-      "options": [
-        "Downtown Toronto",
-        "Old Montreal",
-        "The suburbs of Boston",
-        "Westmount"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 108,
-      "question": "What is the \"Secret Room\" in their condo officially?",
-      "options": [
-        "A walk-in closet",
-        "An office/den",
-        "A laundry room",
-        "A second bathroom"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 109,
-      "question": "Who is the first teammate to accidentally discover Shane and Ilya are together?",
-      "options": [
-        "Fabian Rose",
-        "Scott Hunter",
-        "Joey Vitucci",
-        "Kip Grady"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 110,
-      "question": "What is Joey Vitucci's nickname given by Ilya?",
-      "options": [
-        "The Brat",
-        "The Puppy",
-        "The Italian Stallion",
-        "The Kid"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 111,
-      "question": "What position does the rookie Fabian Rose play?",
-      "options": [
-        "Center",
-        "Goalie",
-        "Defense",
-        "Left Wing"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 112,
-      "question": "What is Ilya Rozanov's jersey number in Montreal?",
-      "options": [
-        "11",
-        "24",
-        "81",
-        "91"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 113,
-      "question": "What is Shane Hollander's jersey number?",
-      "options": [
-        "11",
-        "24",
-        "81",
-        "91"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 114,
-      "question": "What is the name of the Montreal Voyageurs' Head Coach?",
-      "options": [
-        "Coach Bouchard",
-        "Coach Levesque",
-        "Coach Miller",
-        "Coach Roy"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 115,
-      "question": "How do Shane and Ilya act toward each other in front of the media at first?",
-      "options": [
-        "Like best friends",
-        "They continue the \"rivalry\" act",
-        "They ignore each other completely",
-        "They are professionally polite"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 116,
-      "question": "What does Ilya buy for Shane's 30th birthday?",
-      "options": [
-        "A classic car",
-        "An expensive watch (Rolex)",
-        "A trip to Russia",
-        "A new hockey stick"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 117,
-      "question": "What is Shane's reaction to the expensive gift?",
-      "options": [
-        "He loves it immediately",
-        "He thinks it's \"too much\" and unnecessary",
-        "He loses it within a week",
-        "He trades it for something else"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 118,
-      "question": "What is the name of Shane's sister?",
-      "options": [
-        "Rose",
-        "Elena",
-        "Maria",
-        "Svetlana"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 119,
-      "question": "What is the name of Maria's baby (Shane's nephew)?",
-      "options": [
-        "Ilya",
-        "Leo",
-        "Michael",
-        "David"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 120,
-      "question": "What does Ilya buy for baby Leo?",
-      "options": [
-        "A Russian doll",
-        "A tiny pair of hockey skates",
-        "A Montreal jersey",
-        "A stuffed cat"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 121,
-      "question": "Who is Shane's agent?",
-      "options": [
-        "Farah Jalali",
-        "Elena Vetrova",
-        "Brandon Wiebe",
-        "Marcus Thorne"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 122,
-      "question": "What mental health condition does Ilya struggle with in the book?",
-      "options": [
-        "Generalized Anxiety Disorder",
-        "Clinical Depression",
-        "Bipolar Disorder",
-        "Social Anxiety"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 123,
-      "question": "What does Ilya call his \"depression nest\"?",
-      "options": [
-        "The Secret Room",
-        "The Sofa",
-        "The Guest House",
-        "The Arena"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 124,
-      "question": "What is the name of Ilya's therapist?",
-      "options": [
-        "Dr. Graham",
-        "Dr. Aris",
-        "Dr. Miller",
-        "Dr. Bennett"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 125,
-      "question": "Why does Ilya stop taking his medication?",
-      "options": [
-        "He thinks he is cured",
-        "He hates the side effects (feeling numb)",
-        "He ran out",
-        "Shane told him to stop"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 126,
-      "question": "What position does Shane play?",
-      "options": [
-        "Center",
-        "Left Wing",
-        "Right Wing",
-        "Defense"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 127,
-      "question": "What position does Ilya play?",
-      "options": [
-        "Center",
-        "Left Wing",
-        "Right Wing",
-        "Goalie"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 128,
-      "question": "Who is the \"villainous\" reporter who is obsessed with exposing Shane?",
-      "options": [
-        "Jackie Pike",
-        "Marcus Thorne",
-        "Elena Vetrova",
-        "Brandon Wiebe"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 129,
-      "question": "What is the name of the \"support group\" for queer NHL players?",
-      "options": [
-        "The Rainbow Rink",
-        "The Lavender Line",
-        "The Secret Six",
-        "The Pride Puck"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 130,
-      "question": "Who is the founder of the Lavender Line?",
-      "options": [
-        "Shane Hollander",
-        "Ilya Rozanov",
-        "Eric Conrad",
-        "Scott Hunter"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 131,
-      "question": "Which player in the Lavender Line is a goalie?",
-      "options": [
-        "Kip Grady",
-        "Teddy Tyler",
-        "Joey Vitucci",
-        "Fabian Rose"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 132,
-      "question": "What is the name of the Voyageurs' trainer who supports Ilya?",
-      "options": [
-        "Oksana",
-        "Svetlana",
-        "Maria",
-        "Elena"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 133,
-      "question": "What does Shane write on his stick tape?",
-      "options": [
-        "Yuna",
-        "Ilya",
-        "Misha",
-        "Win"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 134,
-      "question": "Where do Shane and Ilya go for their secret mid-season vacation?",
-      "options": [
-        "Russia",
-        "Mexico (Puerto Vallarta)",
-        "The Maldives",
-        "Florida"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 135,
-      "question": "What major life event happens during the Mexico trip?",
-      "options": [
-        "They decide to retire",
-        "Shane proposes to Ilya",
-        "They get into a huge fight",
-        "They get matching tattoos"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 136,
-      "question": "What is Ilya's response to the proposal?",
-      "options": [
-        "\"I need to think about it.\"",
-        "\"No.\"",
-        "\"Finally, you idiot.\"",
-        "\"Yes, of course.\""
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 137,
-      "question": "What does Shane use for the proposal?",
-      "options": [
-        "A diamond ring",
-        "Simple gold bands",
-        "A hockey puck",
-        "A cat collar for Misha"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 138,
-      "question": "What is the name of Ilya's brother?",
-      "options": [
-        "Alexei",
-        "Sergei",
-        "Andrei",
-        "Viktor"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 139,
-      "question": "What is Andrei's profession in Russia?",
-      "options": [
-        "Hockey player",
-        "Police officer",
-        "Engineer",
-        "Doctor"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 140,
-      "question": "How does Ilya's father react to Ilya's relationship?",
-      "options": [
-        "He is supportive",
-        "He is indifferent",
-        "He is homophobic and disowns him",
-        "He tries to get money from Shane"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 141,
-      "question": "What does Shane do to Ilya's father when he visits Montreal?",
-      "options": [
-        "He punches him",
-        "He kicks him out of their home",
-        "He tries to win him over with gifts",
-        "He ignores him"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 142,
-      "question": "What is the \"Golden Boy\" image?",
-      "options": [
-        "Ilya's nickname for his trophy",
-        "Shane's perfect, clean-cut public persona",
-        "A brand of cereal Shane sponsors",
-        "The name of the Voyageurs' mascot"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 143,
-      "question": "Which brand does Shane have a long-standing sponsorship with?",
-      "options": [
-        "Nike",
-        "Reebok",
-        "Adidas",
-        "Gatorade"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 144,
-      "question": "What does Ilya do during the national anthem?",
-      "options": [
-        "Sings loudly",
-        "Looks across the ice at Shane",
-        "Closes his eyes to focus",
-        "Fidgets with his gloves"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 145,
-      "question": "What happens when Ilya has a panic attack in the locker room?",
-      "options": [
-        "Shane takes him home",
-        "Joey Vitucci helps him breathe",
-        "The coach benches him",
-        "He hides in the equipment room"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 146,
-      "question": "What is the \"incident\" that leads to Shane being suspended?",
-      "options": [
-        "He hits a referee",
-        "He fights Marcus Thorne",
-        "He fights a player who used a slur against Ilya",
-        "He misses a team flight"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 147,
-      "question": "Who does Shane fight on the ice to defend Ilya?",
-      "options": [
-        "J.J. Boiziau",
-        "A player from the New York Admirals",
-        "A teammate",
-        "He doesn't fight anyone"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 148,
-      "question": "What is the score of the game where Shane and Ilya finally \"click\" on the same line?",
-      "options": [
-        "1-0",
-        "4-2",
-        "5-3",
-        "2-1"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 149,
-      "question": "What does Ilya think of Shane's cooking?",
-      "options": [
-        "It's world-class",
-        "It's \"too healthy\" and boring",
-        "He loves it",
-        "He refuses to eat it"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 150,
-      "question": "What is the name of the arena where the Montreal Voyageurs play?",
-      "options": [
-        "The Bell Centre",
-        "The Forum",
-        "Voyageur Garden",
-        "Montreal Arena"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 151,
-      "question": "Where are the NHL Awards held in the book?",
-      "options": [
-        "New York",
-        "Las Vegas",
-        "Toronto",
-        "Los Angeles"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 152,
-      "question": "What award is Ilya nominated for?",
-      "options": [
-        "The Vezina",
-        "The Hart Trophy (MVP)",
-        "The Calder",
-        "The Selke"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 153,
-      "question": "What does Ilya wear to the awards ceremony?",
-      "options": [
-        "A standard black tux",
-        "A dark green velvet suit",
-        "A white tuxedo",
-        "A team jersey"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 154,
-      "question": "What does Ilya say in his viral acceptance speech?",
-      "options": [
-        "\"I am the greatest.\"",
-        "\"I want to thank my partner, Shane Hollander.\"",
-        "\"I'm retiring.\"",
-        "\"Thanks to my fans in Russia.\""
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 155,
-      "question": "How does the audience initially react to the speech?",
-      "options": [
-        "They boo",
-        "Stunned silence, followed by applause",
-        "They walk out",
-        "They laugh"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 156,
-      "question": "What is the name of the article that Shane and Ilya cooperate on to \"tell all\"?",
-      "options": [
-        "The Long Game",
-        "Rivalry No More",
-        "The Truth About Hollander and Rozanov",
-        "The Ice Breakers"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 157,
-      "question": "What happens to Shane's \"family-friendly\" sponsorships after he comes out?",
-      "options": [
-        "They give him a raise",
-        "Some of them drop him",
-        "Nothing changes",
-        "He quits them all"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 158,
-      "question": "Who is the first person from Shane's family to call him after the awards?",
-      "options": [
-        "His dad",
-        "His mom",
-        "Maria",
-        "His aunt"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 159,
-      "question": "What does Shane's mother say about his relationship with Ilya?",
-      "options": [
-        "She's shocked",
-        "\"I've known since you were eighteen.\"",
-        "She's disappointed",
-        "She asks for an autograph"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 160,
-      "question": "What is the nickname for the line consisting of Shane, Ilya, and Joey?",
-      "options": [
-        "The Triple Threat",
-        "The Lavender Line (unofficially by fans)",
-        "The Dream Team",
-        "The Montreal Mafia"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 161,
-      "question": "What does Ilya find most annoying about being \"out\"?",
-      "options": [
-        "The paparazzi",
-        "The nice comments from fans",
-        "The pink hockey gear people send him",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 162,
-      "question": "What does Shane do when he realizes Ilya is in a deep depressive episode?",
-      "options": [
-        "He calls a press conference",
-        "He sits with him in the dark room and just holds him",
-        "He forces him to go to practice",
-        "He calls Ilya's father"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 163,
-      "question": "What is the name of the cat's favorite toy?",
-      "options": [
-        "A feather wand",
-        "A stuffed mouse",
-        "A crinkly ball",
-        "Shane's hockey socks"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 164,
-      "question": "How does Joey Vitucci react to the news?",
-      "options": [
-        "He is homophobic",
-        "He is confused",
-        "He is incredibly supportive and \"protective\"",
-        "He asks to be traded"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 165,
-      "question": "What does Ilya call the paparazzi?",
-      "options": [
-        "Vultures",
-        "Mosquitoes",
-        "Rats",
-        "Spies"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 166,
-      "question": "What is Shane's favorite hobby mentioned in the book?",
-      "options": [
-        "Reading history books",
-        "Playing video games",
-        "Cooking",
-        "Golf"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 167,
-      "question": "What is Ilya's favorite \"trashy\" activity?",
-      "options": [
-        "Reading tabloids",
-        "Watching reality TV",
-        "Eating fast food",
-        "Gambling"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 168,
-      "question": "Who does Shane ask for advice before proposing to Ilya?",
-      "options": [
-        "Scott Hunter",
-        "His father",
-        "Andrei Rozanov",
-        "Farah Jalali"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 169,
-      "question": "How does Andrei respond to Shane's request?",
-      "options": [
-        "He tells him to stay away",
-        "He is happy and gives his blessing",
-        "He asks for money",
-        "He doesn't answer"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 170,
-      "question": "What does Ilya do with the gold chain Shane gave him years ago?",
-      "options": [
-        "He lost it",
-        "He still wears it every day",
-        "He gave it to his brother",
-        "He kept it in a box"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 171,
-      "question": "What is the \"Hollander Face\"?",
-      "options": [
-        "A big smile",
-        "A blank, professional, emotionless expression",
-        "A frown",
-        "A wink"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 172,
-      "question": "What is the name of the player who replaces Ilya on his old team in Boston?",
-      "options": [
-        "Mattis",
-        "Carlson",
-        "Miller",
-        "Johnson"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 173,
-      "question": "What does Misha do when Shane and Ilya are fighting?",
-      "options": [
-        "Hides",
-        "Meows loudly and sits between them",
-        "Bites Shane",
-        "Scratches the door"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 174,
-      "question": "What does Ilya think of Montreal compared to Boston?",
-      "options": [
-        "He hates it",
-        "He likes the food more",
-        "He loves it because Shane is there",
-        "He finds it too cold"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 175,
-      "question": "What is the name of the doctor who manages Ilya's depression?",
-      "options": [
-        "Dr. Aris",
-        "Dr. Bouchard",
-        "Dr. Smith",
-        "Dr. Graham"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 176,
-      "question": "What does Ilya call Shane when he's being particularly \"Canadian\"?",
-      "options": [
-        "Boy Scout",
-        "Boring",
-        "Maple Leaf",
-        "Captain"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 177,
-      "question": "What is the primary color of the Montreal Voyageurs' jerseys?",
-      "options": [
-        "Blue and White",
-        "Red, White, and Blue",
-        "Black and Gold",
-        "Green and Silver"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 178,
-      "question": "What does Shane do for his 30th birthday celebration?",
-      "options": [
-        "A huge party",
-        "A quiet dinner with Ilya and the cat",
-        "A trip to Vegas",
-        "A team gala"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 179,
-      "question": "What does Ilya find \"pathetic\" about Shane's workout routine?",
-      "options": [
-        "He meditates",
-        "He does too much cardio",
-        "He has a \"perfect\" schedule for everything",
-        "He wears matching outfits"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 180,
-      "question": "What does Shane do to relax?",
-      "options": [
-        "Drinks beer",
-        "Watches game film",
-        "Cleans the condo",
-        "Sleeps"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 181,
-      "question": "What is the name of the rookie who is very loud and hyper?",
-      "options": [
-        "Joey Vitucci",
-        "Fabian Rose",
-        "Kip Grady",
-        "Mike Dalton"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 182,
-      "question": "How many Stanley Cups has Shane won before The Long Game ends?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "0"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 183,
-      "question": "How many Stanley Cups has Ilya won?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 184,
-      "question": "What is the name of the Voyageurs' social media manager?",
-      "options": [
-        "Kim",
-        "Sarah",
-        "Elena",
-        "Rachel"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 185,
-      "question": "What does Ilya think of Shane's sister Maria?",
-      "options": [
-        "He's afraid of her",
-        "He likes her because she loves Shane",
-        "He thinks she's annoying",
-        "He hasn't met her"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 186,
-      "question": "What does Ilya do when he's happy?",
-      "options": [
-        "He smiles a lot",
-        "He becomes \"extra mean\" in a playful way",
-        "He sings",
-        "He cooks"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 187,
-      "question": "What does Shane realize about his father at the end of the book?",
-      "options": [
-        "His father is proud of him",
-        "He doesn't need his father's approval anymore",
-        "His father is a better man than he thought",
-        "He wants to be just like him"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 188,
-      "question": "Where is the wedding held?",
-      "options": [
-        "A church in Toronto",
-        "A private estate/garden in Ontario",
-        "On the ice at the Bell Centre",
-        "In Moscow"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 189,
-      "question": "Who is Shane's best man?",
-      "options": [
-        "Scott Hunter",
-        "Joey Vitucci",
-        "His father",
-        "Hayden Pike"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 190,
-      "question": "Who is Ilya's best man?",
-      "options": [
-        "Andrei (His brother)",
-        "Scott Hunter",
-        "Joey Vitucci",
-        "No one"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 191,
-      "question": "What is the color of the ties the grooms wear?",
-      "options": [
-        "Black",
-        "Navy",
-        "Emerald Green",
-        "Silver"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 192,
-      "question": "What is the name of the final chapter?",
-      "options": [
-        "Home",
-        "The End",
-        "Forever",
-        "The Last Game"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 193,
-      "question": "What is the last word of the book?",
-      "options": [
-        "Love",
-        "Together",
-        "Okay",
-        "Home"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 194,
-      "question": "What does \"Okay\" represent in the book?",
-      "options": [
-        "They are just \"okay\" with life",
-        "It's Ilya's standard, slightly stubborn response to everything Shane says",
-        "It's a code word for \"I love you\"",
-        "It's the cat's name"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 195,
-      "question": "What is the name of the \"secret\" Twitter account fans use to track them?",
-      "options": [
-        "The Hollander-Rozanov Watch",
-        "The Rivals Account",
-        "The Lavender Line",
-        "The Ice Report"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 196,
-      "question": "What does Ilya do with his Russian Olympic jersey?",
-      "options": [
-        "Frames it",
-        "Gives it to Andrei",
-        "Keeps it in the \"depression room\"",
-        "Burns it"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 197,
-      "question": "What does Shane call Ilya when they are alone in bed?",
-      "options": [
-        "Goldie",
-        "My Shane",
-        "Ilya",
-        "Love"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 198,
-      "question": "What does Ilya do to Shane's \"Golden Boy\" image?",
-      "options": [
-        "He helps Shane dismantle it to be more authentic",
-        "He protects it",
-        "He mocks it publicly",
-        "He ignores it"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 199,
-      "question": "What is the \"Long Game\" to Shane?",
-      "options": [
-        "Winning more cups",
-        "His lifelong love for Ilya",
-        "His plan to retire early",
-        "Managing the media"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 200,
-      "question": "What is the \"Long Game\" to Ilya?",
-      "options": [
-        "Winning more than Shane",
-        "Every day he gets to wake up next to Shane",
-        "Playing until he's 40",
-        "Becoming the best player in history"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 201,
-      "question": "What is the name of the restaurant in Mexico where they have their engagement dinner?",
-      "options": [
-        "La Palapa",
-        "El Panorama",
-        "The Blue Shrimp",
-        "Casa del Mar"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 202,
-      "question": "What does Ilya order to drink during his first meeting with Dr. Aris?",
-      "options": [
-        "Coffee",
-        "Water",
-        "Tea",
-        "Vodka"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 203,
-      "question": "What is the name of the Montreal beat reporter who is sympathetic to Shane?",
-      "options": [
-        "Marie-Eve",
-        "Sophie",
-        "Luc",
-        "Jean-Pierre"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 204,
-      "question": "What does Ilya think of Canadian poutine?",
-      "options": [
-        "He loves it",
-        "He thinks it's \"disgusting but good\"",
-        "He hates it",
-        "He's never tried it"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 205,
-      "question": "What is the name of the hotel Shane and Ilya stay at in Las Vegas?",
-      "options": [
-        "The Bellagio",
-        "Caesars Palace",
-        "The Wynn",
-        "The Cosmopolitan"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 206,
-      "question": "What is the specific brand of Shane's favorite history book mentioned?",
-      "options": [
-        "A book about the Roman Empire",
-        "A biography of a Canadian Prime Minister",
-        "A book about the Russian Revolution",
-        "A history of hockey"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 207,
-      "question": "What does Ilya call the \"Secret Room\" when he's feeling better?",
-      "options": [
-        "The Office",
-        "The Cave",
-        "The Shane-Free Zone",
-        "The Library"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 208,
-      "question": "How many goals does Ilya score in the game after his \"coming out\" speech?",
-      "options": [
-        "0",
-        "1",
-        "2",
-        "3 (A Hat Trick)"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 209,
-      "question": "What does the crowd do when Ilya takes the ice for the first time as an \"out\" player?",
-      "options": [
-        "Boos him",
-        "Gives him a standing ovation",
-        "Throws hats",
-        "Remains silent"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 210,
-      "question": "What is the name of the \"boring\" Montreal player from Heated Rivalry who is still on the team?",
-      "options": [
-        "Gilbert Comeau",
-        "J.J. Boiziau",
-        "Patrice Drapeau",
-        "Cliff Marlow"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 211,
-      "question": "What does Ilya find in Shane's nightstand?",
-      "options": [
-        "A ring box",
-        "Old love letters",
-        "A history book",
-        "Protein bars"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 212,
-      "question": "What does Shane do to stop Ilya from spiraling into a bad mood?",
-      "options": [
-        "He kisses him",
-        "He makes him a tuna melt",
-        "He puts on a trashy movie",
-        "He tells him a dad joke"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 213,
-      "question": "What is the \"Lavender Line\" chat's avatar/photo?",
-      "options": [
-        "A rainbow",
-        "A hockey puck with a pride flag",
-        "A picture of a purple line",
-        "A flamingo"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 214,
-      "question": "What does Ilya do when he's nervous during an interview?",
-      "options": [
-        "Bites his lip",
-        "Becomes very sarcastic/mean",
-        "Speaks Russian",
-        "Taps his fingers"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 215,
-      "question": "What is Shane's favorite pre-game snack?",
-      "options": [
-        "Apple",
-        "Granola bar",
-        "Peanut butter toast",
-        "Nothing"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 216,
-      "question": "What does Ilya call Misha when the cat is being annoying?",
-      "options": [
-        "Little Demon",
-        "Little Shane",
-        "Comrad",
-        "Beast"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 217,
-      "question": "What is the name of the \"bad guy\" on the Boston Bears who Ilya used to clash with?",
-      "options": [
-        "Coach Wiebe",
-        "Cliff Marlow",
-        "Scott Hunter",
-        "Mattis"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 218,
-      "question": "What does Shane's sister Maria do for a living?",
-      "options": [
-        "Lawyer",
-        "Teacher",
-        "Doctor",
-        "Artist"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 219,
-      "question": "What is the name of the park where Shane and Ilya walk Misha (in a stroller)?",
-      "options": [
-        "Mount Royal Park",
-        "Central Park",
-        "Boston Common",
-        "Stanley Park"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 220,
-      "question": "What happens when they try to put Misha in a harness?",
-      "options": [
-        "Misha loves it",
-        "Misha \"flops\" and refuses to move",
-        "Misha scratches Shane",
-        "Misha runs away"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 221,
-      "question": "What is the \"secret\" about Joey Vitucci that Ilya discovers?",
-      "options": [
-        "He's gay too",
-        "He's obsessed with Shane",
-        "He's afraid of the dark",
-        "He's dating a famous model"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 222,
-      "question": "What does Ilya say is the \"hardest part\" of being on the same team as Shane?",
-      "options": [
-        "Not being able to kiss him in the locker room",
-        "Shane's \"boring\" leadership",
-        "Having to pass him the puck",
-        "The media focus"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 223,
-      "question": "What is the color of the \"depression nest\" blankets?",
-      "options": [
-        "Grey",
-        "Blue",
-        "White",
-        "Red"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 224,
-      "question": "What is the first thing they do after they get married?",
-      "options": [
-        "Go on a second honeymoon",
-        "Go back to Montreal to play hockey",
-        "Move to Russia",
-        "Adopt another cat"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 225,
-      "question": "How many years into the future is the epilogue?",
-      "options": [
-        "1 year",
-        "3 years",
-        "5 years",
-        "10 years"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 226,
-      "question": "What is Shane's role in the epilogue?",
-      "options": [
-        "Still playing",
-        "Retired and coaching",
-        "A TV analyst",
-        "A history teacher"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 227,
-      "question": "What is Ilya doing in the epilogue?",
-      "options": [
-        "Still playing",
-        "Retired",
-        "General Manager",
-        "Stay-at-home cat dad"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 228,
-      "question": "How many more cats do they have in the epilogue?",
-      "options": [
-        "Just Misha",
-        "2 (Misha and a new one)",
-        "3",
-        "None"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 229,
-      "question": "What does Shane say he wants to do after hockey?",
-      "options": [
-        "Coach the Voyageurs",
-        "Open a hockey school",
-        "Get his PhD in History",
-        "Nothing, just travel with Ilya"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 230,
-      "question": "What is the \"Long Game\" referred to in the very last page?",
-      "options": [
-        "Their retirement plan",
-        "The rest of their lives together",
-        "A specific game they played",
-        "Their wedding video"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 231,
-      "question": "Who is the first person to call Ilya \"Ilya Hollander-Rozanov\"?",
-      "options": [
-        "Shane",
-        "The media",
-        "His brother",
-        "Joey Vitucci"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 232,
-      "question": "What does Ilya do with his Stanley Cup ring from the Voyageurs?",
-      "options": [
-        "Wears it",
-        "Gives it to Shane",
-        "Keeps it in a safe",
-        "Gives it to Leo"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 233,
-      "question": "What is the \"Montreal Miracle\"?",
-      "options": [
-        "Their cup win",
-        "Their coming out without losing their careers",
-        "Their line scoring 100 goals",
-        "The cat surviving a fall"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 234,
-      "question": "What is Ilya's favorite thing about Shane's body?",
-      "options": [
-        "His hair",
-        "His \"thick Canadian thighs\"",
-        "His hands",
-        "His eyes"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 235,
-      "question": "What does Shane call Ilya when he's being \"soft\"?",
-      "options": [
-        "Darling",
-        "Sweetheart",
-        "Ilya",
-        "My Russian"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 236,
-      "question": "What does Ilya do when Shane is interviewed?",
-      "options": [
-        "Stands in the background and smirks",
-        "Critiques his \"boring\" answers later",
-        "Winks at the camera",
-        "Interrupts him"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 237,
-      "question": "What is the most iconic piece of clothing Ilya wears in the book?",
-      "options": [
-        "His velvet suit",
-        "His gold chain",
-        "Shane's hoodie",
-        "His team jersey"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 238,
-      "question": "What is the name of the song Shane plays to cheer Ilya up?",
-      "options": [
-        "A pop song",
-        "A classical piece",
-        "A Russian song he found online",
-        "Their song"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 239,
-      "question": "What position does Joey Vitucci play?",
-      "options": [
-        "Center",
-        "Left Wing",
-        "Right Wing",
-        "Defense"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 240,
-      "question": "What does Ilya call his depression?",
-      "options": [
-        "The Dark",
-        "The Grey",
-        "The Fog",
-        "The Beast"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 241,
-      "question": "What does Shane do when Ilya is \"Grey\"?",
-      "options": [
-        "He brings him food",
-        "He doesn't try to \"fix\" it, just stays present",
-        "He calls the doctor immediately",
-        "He leaves the room"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 242,
-      "question": "What does Ilya think of Shane's dad?",
-      "options": [
-        "He hates him",
-        "He finds him \"stiff\" but respects him",
-        "He thinks he's funny",
-        "He never talks to him"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 243,
-      "question": "What does the cat Misha do at the wedding?",
-      "options": [
-        "Walks down the aisle",
-        "Is mentioned in the vows",
-        "Stays at home with a sitter",
-        "Is the \"ring bearer\""
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 244,
-      "question": "What does Ilya call Shane's fans?",
-      "options": [
-        "The Hollander Brigade",
-        "The Boy Scouts",
-        "\"People with no taste\"",
-        "\"Very nice people\""
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 245,
-      "question": "What is the name of the teammate who is secretly a \"Swiftie\"?",
-      "options": [
-        "Joey Vitucci",
-        "Fabian Rose",
-        "Kip Grady",
-        "Shane"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 246,
-      "question": "What is Ilya's \"guilty pleasure\" food?",
-      "options": [
-        "McDonald's",
-        "Pizza",
-        "Cereal at midnight",
-        "Candy"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 247,
-      "question": "What does Shane do for Ilya on their wedding morning?",
-      "options": [
-        "Brings him breakfast in bed",
-        "Goes for a skate",
-        "Writes him a long letter",
-        "Panics"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 248,
-      "question": "What does Ilya say to Shane during the vows?",
-      "options": [
-        "\"I love you.\"",
-        "\"I promise to pass you the puck.\"",
-        "\"You are my home.\"",
-        "\"Okay.\""
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 249,
-      "question": "What is Shane's vow to Ilya?",
-      "options": [
-        "To protect him",
-        "To always be his \"boring\" center",
-        "To love him through the grey days",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 250,
-      "question": "What color are Ilya's eyes?",
-      "options": [
-        "Blue",
-        "Green",
-        "Grey",
-        "Brown"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 251,
-      "question": "What color is Shane's hair?",
-      "options": [
-        "Blonde",
-        "Brown",
-        "Black",
-        "Red"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 252,
-      "question": "What is the \"most romantic\" thing Shane says to Ilya?",
-      "options": [
-        "\"I'm in it for the long game.\"",
-        "\"Marry me.\"",
-        "\"I love you.\"",
-        "\"You're the best winger I've ever had.\""
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 253,
-      "question": "What is the name of the captain of the Boston Bears after Ilya leaves?",
-      "options": [
-        "Scott Hunter",
-        "Cliff Marlow",
-        "New Character",
-        "Mattis"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 254,
-      "question": "What does Ilya call Shane's \"Captain\" voice?",
-      "options": [
-        "Bossy",
-        "Hot",
-        "Annoying",
-        "Professional"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 255,
-      "question": "What is the name of the Voyageurs' mascot?",
-      "options": [
-        "Vic the Voyageur",
-        "Monty the Moose",
-        "Puck",
-        "The book doesn't specify"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 256,
-      "question": "How many siblings does Shane have?",
-      "options": [
-        "0",
-        "1 (Maria)",
-        "2",
-        "3"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 257,
-      "question": "How many siblings does Ilya have?",
-      "options": [
-        "0",
-        "1 (Andrei)",
-        "2",
-        "3"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 258,
-      "question": "What is the main theme of the book?",
-      "options": [
-        "Winning",
-        "Coming out and mental health",
-        "Family conflict",
-        "Retirement"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 259,
-      "question": "What does \"The Long Game\" mean for the series?",
-      "options": [
-        "It's the final book",
-        "It's the conclusion of Shane and Ilya's arc",
-        "It's a spinoff",
-        "It's a prequel"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 260,
-      "question": "What is the \"final score\" for Shane and Ilya?",
-      "options": [
-        "3 cups to 2",
-        "They are equal",
-        "They don't care about the score anymore",
-        "1 wedding, 1 life"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 261,
-      "question": "What does Ilya drink in the morning?",
-      "options": [
-        "Coffee (strong, black)",
-        "Tea",
-        "Orange juice",
-        "Water"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 262,
-      "question": "What does Shane drink in the morning?",
-      "options": [
-        "Coffee with cream",
-        "Green tea",
-        "Protein shake",
-        "Orange juice"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 263,
-      "question": "What does Ilya think of Shane's taste in music?",
-      "options": [
-        "It's boring",
-        "It's perfect",
-        "It's too loud",
-        "It's too classical"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 264,
-      "question": "What does Shane think of Ilya's taste in TV shows?",
-      "options": [
-        "It's trashy but entertaining",
-        "It's sophisticated",
-        "It's boring",
-        "He doesn't watch TV"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 265,
-      "question": "What is the name of their favorite restaurant in Montreal?",
-      "options": [
-        "A French bistro",
-        "An Italian place",
-        "A sushi restaurant",
-        "Various places"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 266,
-      "question": "What do they do on their first morning living together?",
-      "options": [
-        "Fight over the bathroom",
-        "Make breakfast together",
-        "Ilya makes Shane coffee",
-        "They sleep in"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 267,
-      "question": "What is Ilya's morning routine?",
-      "options": [
-        "Coffee, workout, shower",
-        "Sleep in, coffee, complain",
-        "Meditation and yoga",
-        "Run, then breakfast"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 268,
-      "question": "What is Shane's morning routine?",
-      "options": [
-        "Early workout, healthy breakfast, game film",
-        "Sleep in",
-        "Coffee and newspaper",
-        "Meditation"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 269,
-      "question": "What does Ilya hate about mornings?",
-      "options": [
-        "Everything",
-        "Shane's cheerfulness",
-        "The alarm clock",
-        "Having to leave bed"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 270,
-      "question": "What does Shane love about mornings with Ilya?",
-      "options": [
-        "Ilya's grumpiness is cute",
-        "They have coffee together",
-        "Ilya always kisses him goodbye",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 271,
-      "question": "What side of the bed does Shane sleep on?",
-      "options": [
-        "Left",
-        "Right",
-        "It varies",
-        "The middle"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 272,
-      "question": "What side of the bed does Ilya sleep on?",
-      "options": [
-        "Left",
-        "Right",
-        "It varies",
-        "He sprawls across both sides"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 273,
-      "question": "Who is the big spoon?",
-      "options": [
-        "Always Shane",
-        "Always Ilya",
-        "It varies",
-        "They don't spoon"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 274,
-      "question": "What does Misha do at night?",
-      "options": [
-        "Sleeps at the foot of the bed",
-        "Sleeps between them",
-        "Sleeps in his own bed",
-        "Wanders the condo"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 275,
-      "question": "What does Ilya say is his favorite part of the day?",
-      "options": [
-        "Game time",
-        "Morning coffee with Shane",
-        "Evening when they're alone",
-        "Nighttime in bed"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 276,
-      "question": "What does Shane say is his favorite part of the day?",
-      "options": [
-        "Any time with Ilya",
-        "Game time",
-        "Morning workouts",
-        "Evenings reading"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 277,
-      "question": "What language does Ilya slip into when he's tired?",
-      "options": [
-        "Russian",
-        "French",
-        "English",
-        "He doesn't slip"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 278,
-      "question": "What language does Ilya use during intimate moments?",
-      "options": [
-        "Russian",
-        "English",
-        "French",
-        "A mix of all three"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 279,
-      "question": "What pet name does Shane use for Ilya most often?",
-      "options": [
-        "Babe",
-        "Love",
-        "Ilya (just his name)",
-        "Sweetheart"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 280,
-      "question": "What pet name does Ilya use for Shane?",
-      "options": [
-        "Shane",
-        "Asshole (affectionately)",
-        "Boring",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 281,
-      "question": "What do they argue about most?",
-      "options": [
-        "Hockey",
-        "Shane's over-planning",
-        "Ilya's messiness",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 282,
-      "question": "How do they usually resolve arguments?",
-      "options": [
-        "They don't talk for days",
-        "Shane apologizes first",
-        "Ilya makes a joke",
-        "They talk it out honestly"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 283,
-      "question": "What is their song?",
-      "options": [
-        "A specific song is mentioned",
-        "They don't have one",
-        "Something Russian",
-        "Something from the 2000s"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 284,
-      "question": "What do they do on date nights?",
-      "options": [
-        "Go to fancy restaurants",
-        "Stay in and watch movies",
-        "Go to the arena",
-        "It varies"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 285,
-      "question": "What is the first movie they watch together in Montreal?",
-      "options": [
-        "A Russian film",
-        "A rom-com",
-        "An action movie",
-        "A documentary"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 286,
-      "question": "What does Ilya think of rom-coms?",
-      "options": [
-        "He secretly loves them",
-        "He hates them",
-        "He's indifferent",
-        "He only watches them for Shane"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 287,
-      "question": "What does Shane think of Ilya's reality TV habit?",
-      "options": [
-        "He finds it endearing",
-        "He hates it",
-        "He gets sucked in too",
-        "Both A and C"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 288,
-      "question": "What reality show do they watch together?",
-      "options": [
-        "The Bachelor",
-        "Real Housewives",
-        "Love Island",
-        "Various shows"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 289,
-      "question": "Who does the grocery shopping?",
-      "options": [
-        "Shane",
-        "Ilya",
-        "They go together",
-        "They have it delivered"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 290,
-      "question": "Who does the cooking?",
-      "options": [
-        "Shane",
-        "Ilya",
-        "They take turns",
-        "They order takeout"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 291,
-      "question": "Who does the cleaning?",
-      "options": [
-        "Shane",
-        "Ilya",
-        "They have a cleaner",
-        "Both"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 292,
-      "question": "Who takes care of Misha more?",
-      "options": [
-        "Shane",
-        "Ilya",
-        "Equal",
-        "Misha takes care of himself"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 293,
-      "question": "What does Misha do when he wants attention?",
-      "options": [
-        "Meows loudly",
-        "Sits on their laptops",
-        "Knocks things over",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 294,
-      "question": "What does Misha do when they're fighting?",
-      "options": [
-        "Hides",
-        "Mediates",
-        "Makes noise",
-        "Sits between them"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 295,
-      "question": "What is Misha's favorite sleeping spot?",
-      "options": [
-        "The foot of their bed",
-        "Shane's pillow",
-        "Ilya's chest",
-        "The windowsill"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 296,
-      "question": "What does Ilya do when Shane is away for games?",
-      "options": [
-        "Misses him terribly",
-        "Enjoys the alone time",
-        "Texts him constantly",
-        "Watches game film"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 297,
-      "question": "What does Shane do when Ilya is away?",
-      "options": [
-        "Worries",
-        "Texts him updates",
-        "Misses him",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 298,
-      "question": "How often do they text during the day?",
-      "options": [
-        "Constantly",
-        "A few times",
-        "Rarely",
-        "Only for logistics"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 299,
-      "question": "What emoji does Ilya use most?",
-      "options": [
-        "The eye roll",
-        "The heart",
-        "The shrug",
-        "He doesn't use emojis"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 300,
-      "question": "What emoji does Shane use most?",
-      "options": [
-        "The heart",
-        "The thumbs up",
-        "The smile",
-        "Hockey related"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 301,
-      "question": "How do they celebrate anniversaries?",
-      "options": [
-        "Big romantic gestures",
-        "Quiet nights in",
-        "Weekend getaways",
-        "It varies"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 302,
-      "question": "What does Ilya give Shane for their first anniversary?",
-      "options": [
-        "Jewelry",
-        "A trip",
-        "Something sentimental",
-        "Nothing elaborate"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 303,
-      "question": "What does Shane give Ilya for their first anniversary?",
-      "options": [
-        "Jewelry",
-        "A framed photo",
-        "A letter",
-        "Something thoughtful"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 304,
-      "question": "What holiday do they celebrate together for the first time?",
-      "options": [
-        "Christmas",
-        "Thanksgiving",
-        "New Year's",
-        "All of them"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 305,
-      "question": "Where do they spend Christmas?",
-      "options": [
-        "With Shane's family",
-        "With Ilya's brother",
-        "Alone in Montreal",
-        "It alternates"
-      ],
-      "correctAnswer": 2,
-      "source": "book2"
-    },
-    {
-      "id": 306,
-      "question": "What does Ilya think of Canadian Thanksgiving?",
-      "options": [
-        "He loves it",
-        "He finds it confusing",
-        "He doesn't care",
-        "He adopts it enthusiastically"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 307,
-      "question": "What does Shane think of Russian holidays?",
-      "options": [
-        "He learns about them for Ilya",
-        "He's indifferent",
-        "He celebrates them too",
-        "He finds them interesting"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 308,
-      "question": "What tradition do they start together?",
-      "options": [
-        "Sunday morning pancakes",
-        "Game night",
-        "Weekly date nights",
-        "Various personal traditions"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 309,
-      "question": "What is their favorite Sunday activity?",
-      "options": [
-        "Sleeping in",
-        "Brunch",
-        "Watching hockey",
-        "Being lazy together"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 310,
-      "question": "What do they do on road trips together?",
-      "options": [
-        "Sit together on the plane",
-        "Room together",
-        "Both A and B",
-        "Keep it professional"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 311,
-      "question": "How do they act in the locker room?",
-      "options": [
-        "Professional",
-        "Friendly teammates",
-        "They avoid each other",
-        "Normal teammates"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 312,
-      "question": "What do teammates think of them before finding out?",
-      "options": [
-        "Rivals",
-        "Best friends",
-        "Just teammates",
-        "Complicated"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 313,
-      "question": "What do teammates think after finding out?",
-      "options": [
-        "Supportive",
-        "Shocked but supportive",
-        "It makes sense now",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 314,
-      "question": "Who is the most supportive teammate?",
-      "options": [
-        "Joey Vitucci",
-        "Fabian Rose",
-        "The whole team",
-        "Coach Bouchard"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 315,
-      "question": "Who is the first teammate to make a joke about them?",
-      "options": [
-        "Joey",
-        "Fabian",
-        "Someone else",
-        "No one dares"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 316,
-      "question": "What does the team do to show support?",
-      "options": [
-        "Pride tape",
-        "Stand by them publicly",
-        "Protect them from media",
-        "All of the above"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 317,
-      "question": "What does Coach Bouchard say when he finds out?",
-      "options": [
-        "He's surprised",
-        "He suspected",
-        "He's supportive",
-        "He doesn't care about personal lives"
-      ],
-      "correctAnswer": 1,
-      "source": "book2"
-    },
-    {
-      "id": 318,
-      "question": "What is the team's record after they come out?",
-      "options": [
-        "They win more",
-        "They lose more",
-        "It stays the same",
-        "They make the playoffs"
-      ],
-      "correctAnswer": 0,
-      "source": "book2"
-    },
-    {
-      "id": 319,
-      "question": "Do they win the Stanley Cup together?",
-      "options": [
-        "Yes",
-        "No",
-        "They make it to the finals",
-        "It's left open-ended"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
-    },
-    {
-      "id": 320,
-      "question": "What is the last scene of the book?",
-      "options": [
-        "Them on the ice",
-        "Them at home",
-        "Them with family",
-        "Them looking at the future together"
-      ],
-      "correctAnswer": 3,
-      "source": "book2"
+      "source": "book1",
+      "difficulty":"medium"
     },
     {
       "id": 116,
@@ -3324,7 +740,9 @@
         "Brendan Brady"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
+      
     },
     {
       "id": 117,
@@ -3336,7 +754,8 @@
         "Callan Potter"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 118,
@@ -3348,7 +767,8 @@
         "Franco Lo Presti"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 119,
@@ -3360,7 +780,8 @@
         "Hulu"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 120,
@@ -3372,7 +793,8 @@
         "January 10, 2026"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 121,
@@ -3384,7 +806,8 @@
         "Paramount+"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 122,
@@ -3396,7 +819,8 @@
         "12"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 123,
@@ -3408,7 +832,8 @@
         "Rachel Reid"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 124,
@@ -3420,7 +845,8 @@
         "He is the series producer"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 125,
@@ -3432,7 +858,8 @@
         "Rose"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 126,
@@ -3444,7 +871,8 @@
         "Nadine Bhabha"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 127,
@@ -3456,7 +884,8 @@
         "Franco Lo Presti"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 128,
@@ -3468,7 +897,8 @@
         "Cliff Marleau"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 129,
@@ -3480,19 +910,8 @@
         "Vancouver, BC"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
-    },
-    {
-      "id": 130,
-      "question": "What is the name of Ilya's father, the Russian police officer, in the show?",
-      "options": [
-        "Alexei",
-        "Grigori",
-        "Sergei",
-        "Viktor"
-      ],
-      "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 131,
@@ -3504,7 +923,8 @@
         "Jacob Tierney"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 132,
@@ -3516,7 +936,8 @@
         "The NHL All-Star Game"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 133,
@@ -3528,7 +949,8 @@
         "A fashion show"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 134,
@@ -3540,7 +962,8 @@
         "5"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 135,
@@ -3552,7 +975,8 @@
         "Yuna Hollander"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 136,
@@ -3564,7 +988,8 @@
         "Matthew Finlan"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 138,
@@ -3576,7 +1001,8 @@
         "Netflix Canada"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 139,
@@ -3588,7 +1014,8 @@
         "Arthur Moukhortov"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 140,
@@ -3600,7 +1027,8 @@
         "Wayne Ward"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 141,
@@ -3612,7 +1040,8 @@
         "Montreal Majesty"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 142,
@@ -3624,7 +1053,8 @@
         "Boston Blades"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 143,
@@ -3636,7 +1066,8 @@
         "Both A and B"
       ],
       "correctAnswer": 3,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 144,
@@ -3648,7 +1079,8 @@
         "The locker room"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 146,
@@ -3660,7 +1092,8 @@
         "It happens in a locker room"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 147,
@@ -3672,7 +1105,8 @@
         "The Team Owner"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 148,
@@ -3684,7 +1118,8 @@
         "Ilya"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 149,
@@ -3696,7 +1131,8 @@
         "His first girlfriend"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 150,
@@ -3708,7 +1144,8 @@
         "He refuses to eat sugar"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 151,
@@ -3720,7 +1157,8 @@
         "The Referee"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 152,
@@ -3732,7 +1170,8 @@
         "It doesn't have time jumps"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 153,
@@ -3744,7 +1183,8 @@
         "White"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 156,
@@ -3756,7 +1196,8 @@
         "He grew up in Russia"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 157,
@@ -3768,7 +1209,8 @@
         "He never leaves him"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 158,
@@ -3780,7 +1222,8 @@
         "The team mascot"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 159,
@@ -3792,7 +1235,8 @@
         "Shane is traded to Boston"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 161,
@@ -3804,7 +1248,8 @@
         "George Grady"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 162,
@@ -3816,7 +1261,8 @@
         "Hayden Pike"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 163,
@@ -3828,19 +1274,8 @@
         "Both A and B"
       ],
       "correctAnswer": 3,
-      "source": "tvshow"
-    },
-    {
-      "id": 164,
-      "question": "The show is described as being 'sex-forward.' How many episodes are in Season 1?",
-      "options": [
-        "5",
-        "6",
-        "8",
-        "10"
-      ],
-      "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 167,
@@ -3852,7 +1287,8 @@
         "6.0"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 168,
@@ -3864,7 +1300,8 @@
         "Connor McDavid"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 169,
@@ -3876,7 +1313,8 @@
         "In their condo"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 171,
@@ -3888,7 +1326,8 @@
         "Banana Bar"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 173,
@@ -3900,7 +1339,8 @@
         "Doctor"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 177,
@@ -3912,7 +1352,8 @@
         "Fans of the team"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 178,
@@ -3924,19 +1365,8 @@
         "None of the above"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
-    },
-    {
-      "id": 179,
-      "question": "What is the name of the show's recurring goalie for the Montreal Metros?",
-      "options": [
-        "Sorren Miitka",
-        "Kolya Andropov",
-        "J.J. Dagenais",
-        "Sasha"
-      ],
-      "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 180,
@@ -3948,7 +1378,8 @@
         "Scott"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 181,
@@ -3960,7 +1391,8 @@
         "Svetlana Vetrova"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 182,
@@ -3972,7 +1404,8 @@
         "Mexico"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 183,
@@ -3984,7 +1417,8 @@
         "Brendan Brady"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 184,
@@ -3996,7 +1430,8 @@
         "They held a protest"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 185,
@@ -4008,7 +1443,8 @@
         "Wednesday"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 186,
@@ -4020,7 +1456,8 @@
         "JJ Dagenais"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 188,
@@ -4032,7 +1469,8 @@
         "Franco Lo Presti"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 189,
@@ -4044,7 +1482,8 @@
         "Grigori"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 190,
@@ -4056,7 +1495,8 @@
         "Elena"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 191,
@@ -4068,7 +1508,8 @@
         "It was canceled"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 192,
@@ -4080,7 +1521,8 @@
         "The Long Game"
       ],
       "correctAnswer": 3,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 193,
@@ -4092,7 +1534,8 @@
         "Late 2025"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 194,
@@ -4104,7 +1547,8 @@
         "20%"
       ],
       "correctAnswer": 2,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 195,
@@ -4116,7 +1560,8 @@
         "Historical documentaries"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 196,
@@ -4128,7 +1573,8 @@
         "Set in the past"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 198,
@@ -4140,7 +1586,8 @@
         "Kings vs. Ducks"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 199,
@@ -4152,7 +1599,8 @@
         "Aidan Shaw"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 200,
@@ -4164,7 +1612,8 @@
         "100%"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 201,
@@ -4176,7 +1625,8 @@
         "45"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 202,
@@ -4188,7 +1638,8 @@
         "Hayden Pike"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 203,
@@ -4200,7 +1651,8 @@
         "A referee"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 205,
@@ -4212,7 +1664,8 @@
         "Bianca Nugara"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 206,
@@ -4224,7 +1677,8 @@
         "The Goal Post"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"hard"
     },
     {
       "id": 210,
@@ -4236,7 +1690,8 @@
         "Fans boycotted"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     },
     {
       "id": 211,
@@ -4248,7 +1703,8 @@
         "Dimitri"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 212,
@@ -4260,7 +1716,8 @@
         "Quebec City"
       ],
       "correctAnswer": 1,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 214,
@@ -4272,7 +1729,8 @@
         "His Agent"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"easy"
     },
     {
       "id": 215,
@@ -4284,7 +1742,8 @@
         "Home"
       ],
       "correctAnswer": 0,
-      "source": "tvshow"
+      "source": "tvshow",
+      "difficulty":"medium"
     }
   ]
 }
