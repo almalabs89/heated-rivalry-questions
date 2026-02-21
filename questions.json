@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "lastUpdated": "2026-02-21",
   "questions": [
     {
@@ -749,7 +749,7 @@
       "options": [
         "Connor Storrie",
         "Hudson Williams",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Callan Potter"
       ],
       "correctAnswer": 1,
@@ -761,7 +761,7 @@
       "question": "Which actor portrays Ilya Rozanov?",
       "options": [
         "Hudson Williams",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Connor Storrie",
         "Franco Lo Presti"
       ],
@@ -836,7 +836,7 @@
     },
     {
       "id": 124,
-      "question": "Actor François Arnaud, who plays Scott Hunter, is known for what personal disclosure in 2020?",
+      "question": "Actor Fran?ois Arnaud, who plays Scott Hunter, is known for what personal disclosure in 2020?",
       "options": [
         "He is a professional hockey player",
         "He is an out bisexual man",
@@ -1022,7 +1022,7 @@
       "options": [
         "Matt Gordon",
         "Dylan Walsh",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Wayne Ward"
       ],
       "correctAnswer": 1,
@@ -1752,6 +1752,19 @@
         "Luxury sports cars",
         "High-end real estate",
         "Rare designer sneakers"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 218,
+      "question": "What is the name of Ilya's mother?",
+      "options": [
+        "Elena",
+        "Irina",
+        "Oksana",
+        "Ilana"
       ],
       "correctAnswer": 1,
       "source": "book1",
