@@ -1109,10 +1109,10 @@
     },
     {
       "id": 148,
-      "question": "Shane's Japanese-Canadian heritage is more prominent in the show. Who encourages him to take brand deals seriously to inspire kids?",
+      "question": "Who encourages Shane to take brand deals seriously to inspire kids?",
       "options": [
         "His father",
-        "His mother, Yuna",
+        "His mother",
         "His agent",
         "Ilya"
       ],
@@ -1715,19 +1715,6 @@
         "Quebec City"
       ],
       "correctAnswer": 1,
-      "source": "tvshow",
-      "difficulty": "easy"
-    },
-    {
-      "id": 214,
-      "question": "Which character tells Shane to take his brand deals seriously because of his heritage?",
-      "options": [
-        "His Mom",
-        "His Dad",
-        "Ilya",
-        "His Agent"
-      ],
-      "correctAnswer": 0,
       "source": "tvshow",
       "difficulty": "easy"
     },
