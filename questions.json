@@ -2187,19 +2187,6 @@
       "difficulty": "hard"
     },
     {
-      "id": 256,
-      "question": "What is Ilya's mother's name?",
-      "options": [
-        "Yuna",
-        "Polina",
-        "Irina",
-        "Svetlana"
-      ],
-      "correctAnswer": 2,
-      "source": "book1",
-      "difficulty": "easy"
-    },
-    {
       "id": 260,
       "question": "Which player does Ilya watch a 'Fast and Furious' movie with on a plane?",
       "options": [
@@ -2251,1203 +2238,163 @@
       "source": "book1",
       "difficulty": "medium"
     },
-    {
+     {
       "id": 270,
-      "question": "What is the name of Shane and Ilya's agent?",
-      "options": ["Maria", "Farah", "Lydia", "Elena"],
-      "correctAnswer": 1,
+      "question": "What is the name of the specific album on Ilya's phone where he saves old photos of Shane?",
+      "options": ["Shane", "Montreal", "Boring", "Doll"],
+      "correctAnswer": 2,
       "source": "book2",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": 271,
-      "question": "Which specific animal does Ilya mistake for a wolf while at the cottage?",
-      "options": ["A loon", "An owl", "A coyote", "A stray dog"],
-      "correctAnswer": 0,
+      "question": "Which specific flavor of hand pie is Ilya's favorite, which he brings to the Hollander house?",
+      "options": ["Apple", "Cherry", "Blueberry", "Raspberry"],
+      "correctAnswer": 1,
       "source": "book2",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "id": 272,
-      "question": "What is the name of Ilya’s therapist in Ottawa?",
-      "options": ["Dr. Galina Molchalina", "Dr. Svetlana Vetrova", "Dr. Yuna Hollander", "Dr. Farah"],
+      "question": "What joke name does Ilya suggest for their potential future son to annoy Shane?",
+      "options": ["Roger Crowell Hollander-Rozanov", "Hayden Pike Rozanov", "Vladimir Rozanov", "J.J. Hollander"],
       "correctAnswer": 0,
       "source": "book2",
       "difficulty": "medium"
     },
     {
       "id": 273,
-      "question": "What language does Ilya use during his therapy sessions?",
-      "options": ["English", "French", "Russian", "German"],
+      "question": "Which fruit-themed dog sweater did Ilya want to buy for Anya, though the dog spa didn't have her size?",
+      "options": ["Pineapple", "Apple", "Strawberry", "Banana"],
       "correctAnswer": 2,
       "source": "book2",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "id": 274,
-      "question": "How many Stanley Cups has Shane won at the start of book 2?",
-      "options": ["One", "Two", "Three", "Four"],
-      "correctAnswer": 2,
+      "question": "What method does Shane use to study Russian while driving between Montreal and Ottawa?",
+      "options": ["DuoLingo", "A language lesson podcast", "Audiobooks", "Calling Ilya's father"],
+      "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
     },
     {
       "id": 275,
-      "question": "What is the name of the Ottawa Centaurs' official team dog?",
-      "options": ["Anya", "Chompy", "Chiron", "Lolly"],
+      "question": "What is the occupation of Jordan Glencross's father, which Ilya uses to tease Ben Tremblay?",
+      "options": ["NHL Scout", "Police Officer", "Team Coach", "Lawyer"],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "medium"
     },
     {
       "id": 276,
-      "question": "Which character adopts the team dog Chiron permanently?",
-      "options": ["Ilya", "Shane", "Harris", "Troy"],
-      "correctAnswer": 2,
+      "question": "Why did Ilya install dimmable 'sexy mood lighting' in the gym of his Ottawa house?",
+      "options": ["To hide his sweat", "For Shane's yoga and meditation", "Because he hates bright lights", "To look better in selfies"],
+      "correctAnswer": 1,
       "source": "book2",
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "id": 277,
-      "question": "What is the name of the dog Ilya personally adopts and brings to Shane's house?",
-      "options": ["Anya", "Lolly", "Milo", "Ruby"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 278,
-      "question": "What does Shane use to propose to Ilya in his living room?",
-      "options": ["A hockey puck", "Real candles", "Electric candles", "A dog toy"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 279,
-      "question": "What is Ilya Rozanov's full name including his patronymic?",
-      "options": ["Ilya Grigoryevich Rozanov", "Ilya Alexeyevich Rozanov", "Ilya Sergevich Rozanov", "Ilya Viktorovich Rozanov"],
-      "correctAnswer": 0,
+      "question": "What degree did Svetlana Vetrova finish before being offered a job with the Boston Bears?",
+      "options": ["Law degree", "MBA", "Sports Management", "Psychology"],
+      "correctAnswer": 1,
       "source": "book2",
       "difficulty": "hard"
     },
     {
-      "id": 280,
-      "question": "What kind of car is Shane driving when he picks Ilya up from the Ottawa airport?",
-      "options": ["Porsche 718", "Jeep Cherokee", "Mercedes SUV", "Audi Spyder"],
+      "id": 278,
+      "question": "What specific plastic food item does Ilya 'eat' while playing with Amber Pike?",
+      "options": ["Pizza", "Hamburger", "Hot dog", "Croissant"],
+      "correctAnswer": 1,
+      "source": "book2",
+      "difficulty": "hard"
+    },
+    {
+      "id": 279,
+      "question": "What was Shane's Christmas gift to Ilya in the year they spent the holiday at Shane's parents' house?",
+      "options": ["A new watch", "A foosball table", "A custom Ducati helmet", "A puppy"],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
+    },
+    {
+      "id": 280,
+      "question": "By exactly how many seconds did Shane beat Ilya in the All-Star fastest skater competition?",
+      "options": ["0.5 seconds", "0.25 seconds", "0.13 seconds", "1 full second"],
+      "correctAnswer": 2,
+      "source": "book2",
+      "difficulty": "hard"
     },
     {
       "id": 281,
-      "question": "What color is Ilya's suit at their wedding?",
-      "options": ["Navy blue", "Light gray", "Burgundy", "Black"],
-      "correctAnswer": 2,
+      "question": "How many Stanley Cup Champions banners hang in the Centaurs' arena rafters at the start of book two?",
+      "options": ["Zero", "One", "Three", "Five"],
+      "correctAnswer": 0,
+      "source": "book2",
+      "difficulty": "easy"
+    },
+    {
+      "id": 282,
+      "question": "What equipment is Shane balancing on in the gym when Ilya tells him he 'looks like a lifeguard/librarian'?",
+      "options": ["A treadmill", "A stability ball", "A yoga mat", "A rowing machine"],
+      "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
     },
     {
-      "id": 282,
-      "question": "What song do Shane and Ilya dance to at their wedding?",
-      "options": ["'Diamonds' by Rihanna", "'O Canada'", "A song from 'Moana'", "A Russian folk song"],
+      "id": 283,
+      "question": "What analogy does Dr. Galina use to describe Ilya's therapy process?",
+      "options": ["Building a Ferrari", "A hockey marathon", "A long road trip", "Fixing a broken stick"],
       "correctAnswer": 0,
       "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 283,
-      "question": "Who 'outs' Shane and Ilya via a FanMail video error?",
-      "options": ["J.J. Boiziau", "Hayden Pike", "Cliff Marlow", "Dallas Kent"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": 284,
-      "question": "What was the name of the person who received the leaked FanMail video?",
-      "options": ["Brad", "Mark", "Arthur", "Milo"],
-      "correctAnswer": 0,
+      "question": "Which specific food allergy does Shane worry about while reviewing the camp medical forms?",
+      "options": ["Peanuts", "Dairy", "Eggs", "Shellfish"],
+      "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
     },
     {
       "id": 285,
-      "question": "What 'prank' explanation did Commissioner Crowell want Shane and Ilya to sign?",
-      "options": ["A deep-fake video", "A bet they lost", "A prank on Hayden Pike", "A movie rehearsal"],
+      "question": "Which superhero was Wyatt Hayes dressed as for Ilya's Halloween party?",
+      "options": ["Spider-Man", "Batman", "Adam Strange", "Green Lantern"],
       "correctAnswer": 2,
+      "source": "book2",
+      "difficulty": "hard"
+    },
+    {
+      "id": 286,
+      "question": "What color is the bow Anya wears on her head for Shane and Ilya's wedding?",
+      "options": ["White", "Burgundy", "Blue", "Gold"],
+      "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
     },
     {
-      "id": 286,
-      "question": "Which teammate of Ilya's comes out as gay during a locker room speech?",
-      "options": ["Wyatt Hayes", "Zane Boodram", "Troy Barrett", "Luca Haas"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
       "id": 287,
-      "question": "What is the name of Zane Boodram's baby?",
-      "options": ["Arthur", "Milo", "Andrew", "Chiron"],
-      "correctAnswer": 1,
+      "question": "What item did the 'Fuck Rozanov' fan in Boston sit near during the game, according to Evan Dykstra?",
+      "options": ["The Ottawa bench", "The penalty box", "The left corner", "The Centaurs' goal"],
+      "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
     },
     {
       "id": 288,
-      "question": "What instrument does Fabian Salah play during his concert?",
-      "options": ["Violin", "Guitar", "Drums", "Cello"],
-      "correctAnswer": 0,
+      "question": "What did Shane eat for his 30th birthday celebration at the cottage?",
+      "options": ["Grilled salmon and kale", "Two hamburgers and chocolate cake", "Tacos and beer", "Chicken parmesan"],
+      "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
     },
     {
       "id": 289,
-      "question": "What is Shane’s favorite Sound according to the first book, which is mentioned again in context?",
-      "options": ["A cheering crowd", "A silent Montreal crowd", "A loon's cry", "Ilya's laughter"],
+      "question": "What does Ilya do to the first die he rolls during the Yahtzee game with Shane's parents?",
+      "options": ["Blows on it", "Kisses it", "Shakes it for a long time", "Taps it on the table"],
       "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 290,
-      "question": "What is Ilya's favorite Sound, as stated in book 2?",
-      "options": ["A dog barking", "A humiliated, silent home crowd", "Puck hitting the post", "His engine"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 291,
-      "question": "Which player is the team social media manager for the Centaurs?",
-      "options": ["Harris", "Troy", "Wyatt", "Bood"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 292,
-      "question": "Where do Shane and Ilya go for their honeymoon?",
-      "options": ["Moscow", "Ibiza, Spain", "Fiji", "The Moon"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 293,
-      "question": "What color are Anya’s little protective boots?",
-      "options": ["Blue", "Red", "Black", "Yellow"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 294,
-      "question": "What is the name of the Ottawa Centaurs' new head coach?",
-      "options": ["Theriault", "LeClaire", "Brandon Wiebe", "Marcel"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 295,
-      "question": "What is the name of Coach Wiebe’s dog?",
-      "options": ["Anya", "Lollipop (Lolly)", "Chiron", "Mac"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 296,
-      "question": "What secret does Coach Wiebe share with Ilya?",
-      "options": ["He is leaving the team", "He had a secret relationship with a teammate", "He hates Crowell", "He is Russian"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 297,
-      "question": "What is the name of the billionaire Ottawa owners?",
-      "options": ["The Drovers", "The Centaurs", "An old money Ottawa family", "The Crowells"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 298,
-      "question": "In Game 7 of the playoffs, what causes Shane to lose the puck to Ilya?",
-      "options": ["He was slashed", "He tripped", "His stick broke", "A whistle blew"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 299,
-      "question": "Which team does Shane sign with as a free agent at the end of the book?",
-      "options": ["Boston Bears", "Ottawa Centaurs", "New York Admirals", "Montreal Voyageurs"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 300,
-      "question": "What gift did the Ottawa owners give Shane and Ilya?",
-      "options": ["A new SUV", "A table at a fancy restaurant", "A private jet", "A yacht"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 301,
-      "question": "What is the patronymic name Shane used when proposing to Ilya?",
-      "options": ["Grigoryevich", "Alexeyevich", "Andreyevich", "Mikhailovich"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 302,
-      "question": "What color are the flowers on the headband Ilya wore for the kids' wedding?",
-      "options": ["Red", "White", "Pink", "Not specified"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 303,
-      "question": "What movie quote does Shane use to tease Ilya about his costume?",
-      "options": ["'I am your father'", "'What we do in life echoes in eternity'", "'Life is like a box of chocolates'", "'I'll be back'"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 304,
-      "question": "What is Ilya's 'lawnmower' pet name for Shane in Russian?",
-      "options": ["Moy gazonokosilka", "Moya lyubov", "Moy pomidor", "Ya lyublyu tebya"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 305,
-      "question": "What is the name of the Swiss rookie on the Centaurs who has an Ilya poster?",
-      "options": ["Wyatt Hayes", "Luca Haas", "Evan Dykstra", "Tanner Dillon"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 306,
-      "question": "Which player is in charge of the locker room music that Ilya hates?",
-      "options": ["Wyatt Hayes", "Evan Dykstra", "Zane Boodram", "Troy Barrett"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 307,
-      "question": "What is the name of the bar/club where Fabian Salah performs?",
-      "options": ["Ultraviolet", "Monk's", "The Kingfisher", "Djon-Djon"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 308,
-      "question": "What color is Fabian Salah's nail polish on their double date?",
-      "options": ["Periwinkle blue", "Neon pink", "Black", "Sparkly gold"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 309,
-      "question": "What does Shane order to eat during the double date with Ryan and Fabian?",
-      "options": ["Greasy pizza", "Grilled salmon with no sauce", "Salt cod fritters", "Tuna melt"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 310,
-      "question": "What is the name of Fabian Salah's boyfriend?",
-      "options": ["Ryan Price", "Max Riley", "Cliff Marlow", "Harris"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 311,
-      "question": "Where does Shane go to recover from his concussion and broken collarbone?",
-      "options": ["Ilya's house", "The Montreal hospital", "His parents' house in Ottawa", "The cottage"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 312,
-      "question": "What is the name of the foundation Shane and Ilya start together?",
-      "options": ["The Hollander Foundation", "The Irina Foundation", "The Rozanov Trust", "Hockey for Everyone"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 313,
-      "question": "What is Ilya's Russian pet name for Shane that means 'Tomato'?",
-      "options": ["Moy pomidor", "Moy lyubimyy", "Moy gazonokosilka", "Moya lyubov"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 314,
-      "question": "How old is Shane when he turns thirty in the book?",
-      "options": ["29", "30", "31", "32"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 315,
-      "question": "What color is Ilya's Porsche Cayman?",
-      "options": ["Vegas Yellow", "Bright Orange", "Navy Blue", "Black"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 316,
-      "question": "Which player is known for his 'Green Lantern' tire cover?",
-      "options": ["Ilya Rozanov", "Wyatt Hayes", "Hayden Pike", "J.J. Boiziau"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 317,
-      "question": "What did Shane record secretly during his meeting with Crowell?",
-      "options": ["A bribe attempt", "The whole meeting", "A phone call", "Nothing"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 318,
-      "question": "Who suggested that Shane record the meeting with Crowell?",
-      "options": ["Ilya", "Farah", "His Mother (Yuna)", "Hayden"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 319,
-      "question": "What is the name of the restaurant Shane takes Ilya to for 'the best chicken parmesan'?",
-      "options": ["The Kingfisher", "Djon-Djon", "A place in downtown Montreal", "Monk's"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 320,
-      "question": "How many years has it been since Ilya's mother died when he discusses it with his therapist?",
-      "options": ["10 years", "12 years", "14 years", "17 years"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 321,
-      "question": "What is the specific 'lower-body injury' Ilya jokingly references after sex?",
-      "options": ["His bruised knee", "A pulled hamstring", "A broken heart", "Noodly limbs"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 322,
-      "question": "Which brand of cookies does Ilya cram into his mouth on Christmas?",
-      "options": ["Chocolate chip", "Thumbprint cookies with jam", "Gingerbread", "Shortbread"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 323,
-      "question": "What is the name of the dog hotel Ilya uses?",
-      "options": ["The Kennel", "A hotel for dogs", "The Spa", "Doggy Daycare"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 324,
-      "question": "What color is the black band ring Shane gives to Ilya?",
-      "options": ["All black", "Black with gold interior", "Silver with black", "Black with a diamond"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 325,
-      "question": "Who is the 'Junior Director of Communications' according to Shane's meeting at the team office?",
-      "options": ["Harris", "Farah", "Svetlana", "Laurent"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 326,
-      "question": "What does Ilya want to get a license for, which Shane fears will kill him?",
-      "options": ["Motorcycle", "Boating", "Pilot", "Commercial Trucking"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 327,
-      "question": "What is the name of the hockey move Shane 'steals' from Ilya?",
-      "options": ["The Hollander", "The Rozanov", "The Centaur", "The Montreal special"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 328,
-      "question": "What is the name of the island Shane mentions in a fantasy about fucking?",
-      "options": ["Ibiza", "Fiji", "One of the little islands on the lake", "The Moon"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 329,
-      "question": "What food does Ilya slather in Nutella to annoy Shane?",
-      "options": ["Pancakes", "A bagel with cream cheese", "A croissant", "Fruit"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 330,
-      "question": "What does Ilya buy for 100 dollars on the FanMail site?",
-      "options": ["A video from Shane", "A video from Hayden Pike", "A birthday greeting for Farah", "A personalized song"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 331,
-      "question": "What is Shane’s 'secret' goal for Stanley Cup wins?",
-      "options": ["5", "6", "7", "11"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 332,
-      "question": "Who is the only Montreal Voyageur on the FanMail site?",
-      "options": ["Shane Hollander", "Hayden Pike", "J.J. Boiziau", "Gilbert Comeau"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 333,
-      "question": "What does Ilya say about Shane’s backhand while being honest?",
-      "options": ["It is the best in the league", "It is weak", "It is surprisingly good", "It needs work"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 334,
-      "question": "What does Shane use to wipe the sperm off Ilya's gym floor?",
-      "options": ["A gym towel", "His workout shorts", "A leather wipe", "Paper towels"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 335,
-      "question": "Which player is described as having 'bad vibes' when he joins Ottawa?",
-      "options": ["Troy Barrett", "Luca Haas", "Evan Dykstra", "Tanner Dillon"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 336,
-      "question": "What is the name of the hockey league in the books?",
-      "options": ["NHL", "NAHA", "MLH", "KHL"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 337,
-      "question": "What is Shane's 'lawnmower' pet name in Russian?",
-      "options": ["Moy gazonokosilka", "Moya lyubov", "Moy lyubimyy", "Moy pomidor"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 338,
-      "question": "What is the name of the 'climate disaster' action movie Ilya watches with Troy?",
-      "options": ["Under Dark", "Fast Five", "The text doesn't name it", "The Purge"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 339,
-      "question": "What is the name of the 'gayest' place Scott Hunter suggests for a honeymoon?",
-      "options": ["Madrid", "Ibiza", "Barcelona", "Paris"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 340,
-      "question": "What color is Ilya's hair described as in the summer light?",
-      "options": ["Light brown", "Golden-brown", "Dark brown", "Bronze"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 341,
-      "question": "How long is the drive between Montreal and Ottawa according to Shane?",
-      "options": ["One hour", "Two hours", "Thirteen hours", "Thirty minutes"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 342,
-      "question": "What specific fruit does Shane's mother give him as a 'treat' on Christmas?",
-      "options": ["An apple", "A pomegranate", "A mango", "A bowl of berries"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 343,
-      "question": "Who is the treasurer of the Irina Foundation?",
-      "options": ["Farah", "Yuna Hollander", "Jackie Pike", "Ilya Rozanov"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 344,
-      "question": "Which teammate calls Shane a 'fucking liar' after the outing?",
-      "options": ["J.J. Boiziau", "Gilbert Comeau", "Hayden Pike", "Patrice Drapeau"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 345,
-      "question": "What is the name of the 'annoying coworker' Ilya mentions in his FanMail request to Hayden?",
-      "options": ["Shane", "Ilya", "The boyfriend's coworker", "Harris"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 346,
-      "question": "In what month does the book end, during the home opener?",
-      "options": ["July", "August", "September", "October"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 347,
-      "question": "What is the name of the 'A-team' kid who bullied Ben Tremblay?",
-      "options": ["Jordan Glencross", "Luca Haas", "Andrew", "Milo"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 348,
-      "question": "What is the occupation of Jordan Glencross's father?",
-      "options": ["NHL scout", "Police officer", "Hockey coach", "Politician"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 349,
-      "question": "How many kids does Hayden Pike have by the end of the book?",
-      "options": ["Three", "Four", "Five", "Two"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 350,
-      "question": "What is the name of Shane's parents' dog (implied by context of family)?",
-      "options": ["Anya", "Chiron", "Lolly", "They don't have a dog mentioned"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 351,
-      "question": "What drink does Shane order at the gay bar that surprises the server?",
-      "options": ["Unsweetened iced tea", "Sparkling water with lemon and lime", "Pilsner", "Mojito"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 352,
-      "question": "What is the name of the server at the pizza bar?",
-      "options": ["Maxime", "Leo", "Laurent", "Harris"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 353,
-      "question": "Which player is referred to as 'Ottawa's best defenseman'?",
-      "options": ["Cliff Marlow", "Evan Dykstra", "Ryan Price", "J.J. Boiziau"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 354,
-      "question": "How many years old is Ilya's Ducati?",
-      "options": ["New", "Three years old", "Five years old", "The text doesn't say"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 355,
-      "question": "What is the name of the 'hotel for dogs' Ilya uses?",
-      "options": ["The Ottawa Dog Hotel", "A private kennel", "The dog spa", "No name is given"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 356,
-      "question": "Which player is known as 'Hazy'?",
-      "options": ["Wyatt Hayes", "Evan Dykstra", "Luca Haas", "Tanner Dillon"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 357,
-      "question": "What is the name of the 'sex sorcerer' boyfriend according to Shane?",
-      "options": ["Fabian Salah", "Ryan Price", "Harris", "Troy Barrett"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 358,
-      "question": "Which character had a 'bad breakup with hockey'?",
-      "options": ["Ilya Rozanov", "Shane Hollander", "Ryan Price", "Troy Barrett"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 359,
-      "question": "What is the name of the restaurant with 'Haitian-inspired' food?",
-      "options": ["Djon-Djon", "Ultraviolet", "The Kingfisher", "Monk's"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 360,
-      "question": "Who is the 'Senior Director of Communications' for Ottawa at the end?",
-      "options": ["Harris", "Troy", "Shane", "Farah"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 361,
-      "question": "What is the name of Shane's childhood hockey city?",
-      "options": ["Ottawa", "Montreal", "Kingston", "Regina"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 362,
-      "question": "What is the name of the 'boring' guy Ilya compares Shane to?",
-      "options": ["Scott Hunter", "Harris", "Laurent", "No one specific"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 363,
-      "question": "What color is Ilya's Porsche 718 Cayman?",
-      "options": ["Vegas Yellow", "Bright Orange", "Navy Blue", "Black"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 364,
-      "question": "What is the name of Hayden Pike's only son?",
-      "options": ["Milo", "Arthur", "Andrew", "Ruby"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 365,
-      "question": "Which player has a tattoo that says 'What we do in life echoes in eternity'?",
-      "options": ["Ilya Rozanov", "J.J. Boiziau", "Gilbert Comeau", "Zane Boodram"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 366,
-      "question": "What is Ilya's 'throne room'?",
-      "options": ["His penthouse", "Shane's trophy room", "The locker room", "The center ice circle"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 367,
-      "question": "Which player is the team captain of the Ottawa Centaurs in book 2?",
-      "options": ["Wyatt Hayes", "Ilya Rozanov", "Zane Boodram", "Shane Hollander"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 368,
-      "question": "What is the name of Ilya's mother's namesake foundation?",
-      "options": ["The Irina Foundation", "The Polina Trust", "The Svetlana Fund", "The Yuna Charity"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 369,
-      "question": "In which city does the first round playoff series between Montreal and Ottawa start?",
-      "options": ["Montreal", "Ottawa", "Toronto", "Boston"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 370,
-      "question": "What color are the pajamas Ilya imagines Shane wearing?",
-      "options": ["Blue", "White", "Navy Blue", "The text doesn't specify"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 371,
-      "question": "What is the name of the 'superstar goalie' Shane refers to as 'experienced'?",
-      "options": ["Wyatt Hayes", "Patrice Drapeau", "Tommy Andersson", "Wyatt Hayes"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 372,
-      "question": "What is the name of the New York Admirals goalie?",
-      "options": ["Tommy Andersson", "Wyatt Hayes", "Patrice Drapeau", "Dykstra"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 373,
-      "question": "How many MVP awards does Ilya jokingly say he will win before retiring?",
-      "options": ["10", "12", "13", "7"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 374,
-      "question": "What song is playing during Ilya and Shane's wedding dance?",
-      "options": ["'Diamonds' by Rihanna", "'O Canada'", "'Moana' soundtrack", "'Thunderstruck'"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 375,
-      "question": "Who is the 'Senior Director of Communications' for Ottawa at the end?",
-      "options": ["Harris", "Troy", "Shane", "Farah"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 376,
-      "question": "What specific flower is dangling from Ilya's headband at the kids' wedding?",
-      "options": ["A rose", "A daisy", "A tulip", "The text doesn't name it"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 377,
-      "question": "What is the name of the 'pretty boy' rival player Shane hates, mentioned as an insult?",
-      "options": ["Ilya Rozanov", "Troy Barrett", "Luca Haas", "Cliff Marlow"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 378,
-      "question": "How many Stanley Cups does Shane win in total by the end of the book?",
-      "options": ["2", "3", "4", "0"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 379,
-      "question": "Which player is referred to as 'Montreal's fifteenth best player' as a joke?",
-      "options": ["Hayden Pike", "Gilbert Comeau", "J.J. Boiziau", "Patrice Drapeau"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 380,
-      "question": "What does Ilya slather on a sesame seed bagel?",
-      "options": ["Jam", "Cream cheese and Nutella", "Butter", "Peanut butter"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 381,
-      "question": "Where does Ilya find his mother in his recurring dream?",
-      "options": ["In a bed", "In a hammock", "In the kitchen", "On the ice"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 382,
-      "question": "What is the name of the 'climate disaster' action movie Ilya watches?",
-      "options": ["Under Dark", "Fast Five", "The text doesn't name it", "The Purge"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 383,
-      "question": "What is the name of the 'gayest' place Scott Hunter suggests for a honeymoon?",
-      "options": ["Madrid", "Ibiza", "Barcelona", "Paris"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 384,
-      "question": "What does Shane order at the gay bar that surprises the server?",
-      "options": ["Unsweetened iced tea", "Sparkling water with lemon and lime", "Pilsner", "Mojito"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 385,
-      "question": "What color is Fabian Salah's nail polish?",
-      "options": ["Periwinkle blue", "Neon pink", "Black", "Sparkly gold"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 386,
-      "question": "Which teammate of Ilya's comes out as gay during a locker room speech?",
-      "options": ["Wyatt Hayes", "Zane Boodram", "Troy Barrett", "Luca Haas"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 387,
-      "question": "What is the name of Zane Boodram's baby?",
-      "options": ["Arthur", "Milo", "Andrew", "Chiron"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 388,
-      "question": "Who is the 'Senior Director of Communications' for Ottawa at the end?",
-      "options": ["Harris", "Troy", "Shane", "Farah"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 389,
-      "question": "What is the name of Shane's childhood hockey city?",
-      "options": ["Ottawa", "Montreal", "Kingston", "Regina"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 390,
-      "question": "What is the name of the 'boring' guy Ilya compares Shane to?",
-      "options": ["Scott Hunter", "Harris", "Laurent", "No one specific"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 391,
-      "question": "What color is Ilya's Porsche 718 Cayman?",
-      "options": ["Vegas Yellow", "Bright Orange", "Navy Blue", "Black"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 392,
-      "question": "What is the name of Hayden Pike's only son?",
-      "options": ["Milo", "Arthur", "Andrew", "Ruby"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 393,
-      "question": "Which player has a tattoo that says 'What we do in life echoes in eternity'?",
-      "options": ["Ilya Rozanov", "J.J. Boiziau", "Gilbert Comeau", "Zane Boodram"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 394,
-      "question": "What is Ilya's 'throne room'?",
-      "options": ["His penthouse", "Shane's trophy room", "The locker room", "The center ice circle"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 395,
-      "question": "Which player is the team captain of the Ottawa Centaurs in book 2?",
-      "options": ["Wyatt Hayes", "Ilya Rozanov", "Zane Boodram", "Shane Hollander"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 396,
-      "question": "What is the name of Ilya's mother's namesake foundation?",
-      "options": ["The Irina Foundation", "The Polina Trust", "The Svetlana Fund", "The Yuna Charity"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 397,
-      "question": "In which city does the first round playoff series between Montreal and Ottawa start?",
-      "options": ["Montreal", "Ottawa", "Toronto", "Boston"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 398,
-      "question": "What color are the pajamas Ilya imagines Shane wearing?",
-      "options": ["Blue", "White", "Navy Blue", "The text doesn't specify"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 399,
-      "question": "What is the name of the 'superstar goalie' Shane refers to as 'experienced'?",
-      "options": ["Wyatt Hayes", "Patrice Drapeau", "Tommy Andersson", "Wyatt Hayes"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 400,
-      "question": "What is the name of the New York Admirals goalie?",
-      "options": ["Tommy Andersson", "Wyatt Hayes", "Patrice Drapeau", "Dykstra"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 401,
-      "question": "How many MVP awards does Ilya jokingly say he will win before retiring?",
-      "options": ["10", "12", "13", "7"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 402,
-      "question": "What song is playing during Ilya and Shane's wedding dance?",
-      "options": ["'Diamonds' by Rihanna", "'O Canada'", "'Moana' soundtrack", "'Thunderstruck'"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 403,
-      "question": "Who is the 'Senior Director of Communications' for Ottawa at the end?",
-      "options": ["Harris", "Troy", "Shane", "Farah"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 404,
-      "question": "What specific flower is dangling from Ilya's headband at the kids' wedding?",
-      "options": ["A rose", "A daisy", "A tulip", "The text doesn't name it"],
-      "correctAnswer": 3,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 405,
-      "question": "What is the name of the 'pretty boy' rival player Shane hates, mentioned as an insult?",
-      "options": ["Ilya Rozanov", "Troy Barrett", "Luca Haas", "Cliff Marlow"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 406,
-      "question": "How many Stanley Cups does Shane win in total by the end of the book?",
-      "options": ["2", "3", "4", "0"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 407,
-      "question": "Which player is referred to as 'Montreal's fifteenth best player' as a joke?",
-      "options": ["Hayden Pike", "Gilbert Comeau", "J.J. Boiziau", "Patrice Drapeau"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 408,
-      "question": "What does Ilya slather on a sesame seed bagel?",
-      "options": ["Jam", "Cream cheese and Nutella", "Butter", "Peanut butter"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 409,
-      "question": "Where does Ilya find his mother in his recurring dream?",
-      "options": ["In a bed", "In a hammock", "In the kitchen", "On the ice"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 410,
-      "question": "What is the name of the 'climate disaster' action movie Ilya watches?",
-      "options": ["Under Dark", "Fast Five", "The text doesn't name it", "The Purge"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 411,
-      "question": "What is the name of the 'gayest' place Scott Hunter suggests for a honeymoon?",
-      "options": ["Madrid", "Ibiza", "Barcelona", "Paris"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 412,
-      "question": "What does Shane order at the gay bar that surprises the server?",
-      "options": ["Unsweetened iced tea", "Sparkling water with lemon and lime", "Pilsner", "Mojito"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 413,
-      "question": "What color is Fabian Salah's nail polish?",
-      "options": ["Periwinkle blue", "Neon pink", "Black", "Sparkly gold"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 414,
-      "question": "Which teammate of Ilya's comes out as gay during a locker room speech?",
-      "options": ["Wyatt Hayes", "Zane Boodram", "Troy Barrett", "Luca Haas"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "easy"
-    },
-    {
-      "id": 415,
-      "question": "What is the name of Zane Boodram's baby?",
-      "options": ["Arthur", "Milo", "Andrew", "Chiron"],
-      "correctAnswer": 1,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 416,
-      "question": "Who is the 'Senior Director of Communications' for Ottawa at the end?",
-      "options": ["Harris", "Troy", "Shane", "Farah"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 417,
-      "question": "What is the name of Shane's childhood hockey city?",
-      "options": ["Ottawa", "Montreal", "Kingston", "Regina"],
-      "correctAnswer": 2,
-      "source": "book2",
-      "difficulty": "medium"
-    },
-    {
-      "id": 418,
-      "question": "What is the name of the 'boring' guy Ilya compares Shane to?",
-      "options": ["Scott Hunter", "Harris", "Laurent", "No one specific"],
-      "correctAnswer": 0,
-      "source": "book2",
-      "difficulty": "hard"
-    },
-    {
-      "id": 419,
-      "question": "What is the name of the 'nice' nurse Shane jokes about hiring?",
-      "options": ["A hot male nurse", "Farah", "Maria", "Elena"],
-      "correctAnswer": 0,
       "source": "book2",
       "difficulty": "medium"
     }
