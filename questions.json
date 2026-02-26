@@ -1,6 +1,6 @@
 {
-  "version": "1.10",
-  "lastUpdated": "2026-02-26",
+  "version": "1.11",
+  "lastUpdated": "2026-02-27",
   "questions": [
     {
       "id": 1,
@@ -1718,5 +1718,538 @@
       "source": "tvshow",
       "difficulty": "book1"
     },
+    {
+      "id": 220,
+      "question": "What university did Shane's father play hockey for?",
+      "options": [
+        "University of Ottawa",
+        "McGill",
+        "Queen's University",
+        "University of Toronto"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 221,
+      "question": "What is Ilya's favorite soft drink, which Shane ensures he has in the fridge?",
+      "options": [
+        "Ginger Ale",
+        "Pepsi",
+        "Coke",
+        "Sprite"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 222,
+      "question": "Which actor does Rose Landry mention is 'low-key in love' with Shane?",
+      "options": [
+        "Miles",
+        "Francois",
+        "Scott Hunter",
+        "Maxime"
+      ],
+      "correctAnswer": 0,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 223,
+      "question": "What name does Ilya use to save Shane's contact in his phone?",
+      "options": [
+        "Lily",
+        "Shannon",
+        "Jane",
+        "Doll"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 224,
+      "question": "What name does Shane use to save Ilya's contact in his phone?",
+      "options": [
+        "Jane",
+        "Lily",
+        "Sweetheart",
+        "Russian King"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 225,
+      "question": "What is the name of Hayden Pike's son?",
+      "options": [
+        "Arthur",
+        "Amber",
+        "Jade",
+        "Ruby"
+      ],
+      "correctAnswer": 0,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 226,
+      "question": "What specific movie does Ilya watch on his iPad to distract Ryan Price during a flight?",
+      "options": [
+        "The Purge",
+        "Fast Five",
+        "Under Dark",
+        "X-Squad"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 227,
+      "question": "What color are Shane's bedsheets in his Montreal apartment?",
+      "options": [
+        "White",
+        "Grey",
+        "Navy blue",
+        "Black"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 228,
+      "question": "In which city is the CCM commercial featuring both Shane and Ilya filmed?",
+      "options": [
+        "Montreal",
+        "Boston",
+        "Toronto",
+        "Ottawa"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 229,
+      "question": "What room number is the Toronto hotel where Shane and Ilya first hook up?",
+      "options": [
+        "1822",
+        "1217",
+        "1410",
+        "1126"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 230,
+      "question": "What is Shane Hollander's least favorite sound?",
+      "options": [
+        "A loon's cry",
+        "A silent Montreal crowd",
+        "Ilya's laugh",
+        "The referee's whistle"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 231,
+      "question": "What animal is tattooed on Ilya Rozanov's chest?",
+      "options": [
+        "A wolf",
+        "An eagle",
+        "A grizzly bear",
+        "A lion"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 232,
+      "question": "Who is the treasurer and director of the Irina Foundation?",
+      "options": [
+        "Rose Landry",
+        "Svetlana Vetrova",
+        "Yuna Hollander",
+        "Jackie Pike"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 233,
+      "question": "What animal cry does Ilya mistake for a wolf while at Shane's cottage?",
+      "options": [
+        "An owl",
+        "A loon",
+        "A coyote",
+        "A stray dog"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 234,
+      "question": "Which team eliminated Montreal from the playoffs while Shane was recovering from a concussion?",
+      "options": [
+        "Boston Bears",
+        "New York Admirals",
+        "Detroit",
+        "Ottawa"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 235,
+      "question": "What accessory does Shane wear while Skyping Ilya that Ilya finds surprisingly attractive?",
+      "options": [
+        "A Montreal jersey",
+        "Reading glasses",
+        "A knit hat",
+        "A gold chain"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 236,
+      "question": "What is the name of the Haitian-inspired restaurant where Shane meets Rose Landry?",
+      "options": [
+        "Ultraviolet",
+        "Djon-Djon",
+        "The Kingfisher",
+        "Mile End Grill"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 237,
+      "question": "What food does Rose Landry share with Shane during their first conversation?",
+      "options": [
+        "Poutine",
+        "Salt cod fritters",
+        "Tuna melts",
+        "Charcuterie"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 238,
+      "question": "What is Ilya's self-described 'favorite sound' in hockey?",
+      "options": [
+        "The final siren",
+        "A humiliated, silent home crowd",
+        "The sound of the puck hitting the net",
+        "His teammates cheering"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 239,
+      "question": "Where does Shane go to recover from his serious concussion in 2017?",
+      "options": [
+        "His Montreal apartment",
+        "Ilya's penthouse",
+        "His parents' house in Ottawa",
+        "A private hospital in New York"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 240,
+      "question": "What is the name of Hayden Pike's baby daughter?",
+      "options": [
+        "Ruby",
+        "Jade",
+        "Amber",
+        "Rose"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 241,
+      "question": "What license does Ilya joke about wanting to get to visit Shane faster?",
+      "options": [
+        "Boating license",
+        "Pilot license",
+        "Motorcycle license",
+        "Commercial trucking license"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 242,
+      "question": "How many goals did Shane score in the 2011 All-Star Game while playing on a line with Ilya?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": 3,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 243,
+      "question": "What is the name of Kip Grady's smoothie shop from the excerpt of 'Game Changer'?",
+      "options": [
+        "Fruit Fusion",
+        "Straw+Berry",
+        "The Juice Bar",
+        "Smoothie King"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 244,
+      "question": "What does Ilya do with his Moscow condo after his father's funeral?",
+      "options": [
+        "Sells it to a teammate",
+        "Gives it to his brother Andrei",
+        "Abandons it",
+        "Rents it out"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 245,
+      "question": "What city hosts the All-Star weekend where Shane admits to Ilya that he thinks he is gay?",
+      "options": [
+        "Tampa Bay",
+        "Nashville",
+        "Los Angeles",
+        "Las Vegas"
+      ],
+      "correctAnswer": 0,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 246,
+      "question": "Which specific organization did Shane donate to in honor of Ilya's father?",
+      "options": [
+        "The Russian Red Cross",
+        "Alzheimer Society of Canada",
+        "Suicide Prevention Hotline",
+        "Montreal Children's Hospital"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 247,
+      "question": "What is the name of the movie Rose Landry mentions being embarrassed to have filmed in Montreal?",
+      "options": [
+        "X-Squad",
+        "Under Dark",
+        "The Bodyguard",
+        "FBI vs. Terrorist"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 248,
+      "question": "What is Shane's morning routine start time for his 10km run?",
+      "options": [
+        "5:00 AM",
+        "6:00 AM",
+        "7:00 AM",
+        "8:00 AM"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 249,
+      "question": "In which Montreal neighborhood is Shane's secret condo located?",
+      "options": [
+        "Westmount",
+        "The Plateau",
+        "Old Montreal",
+        "Brossard"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 250,
+      "question": "What was Shane's record-breaking time in the All-Star Skills accuracy competition?",
+      "options": [
+        "7.2 seconds",
+        "6.7 seconds",
+        "5.9 seconds",
+        "8.1 seconds"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 251,
+      "question": "What is the name of the bartender Shane befriends at Francois's party?",
+      "options": [
+        "Maxime",
+        "Jean-Jacques",
+        "Marcel",
+        "Gilbert"
+      ],
+      "correctAnswer": 0,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 252,
+      "question": "What is the name of the Haitian-Canadian defenseman who is Shane's close friend?",
+      "options": [
+        "Ryan Price",
+        "Jean-Jacques Boiziau",
+        "Cliff Marlow",
+        "Victor St-Simon"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 253,
+      "question": "What does Shane find in his locker stall as a prank by his teammates while dating Rose?",
+      "options": [
+        "A movie poster",
+        "A giant bouquet of 60 roses",
+        "A dress",
+        "A fake Oscar trophy"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 254,
+      "question": "Which book does Ilya imagine Shane reading in bed while buttoning up his pajamas?",
+      "options": [
+        "A biography of a Russian czar",
+        "A boring hockey book",
+        "A motivational business guide",
+        "A French novel"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 255,
+      "question": "What is the name of the girl Ilya used to see in New York before she got engaged?",
+      "options": [
+        "Maria",
+        "Svetlana",
+        "The book doesn't name her",
+        "Elena"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 256,
+      "question": "What is Ilya's mother's name?",
+      "options": [
+        "Yuna",
+        "Polina",
+        "Irina",
+        "Svetlana"
+      ],
+      "correctAnswer": 2,
+      "source": "book1",
+      "difficulty": "easy"
+    },
+    {
+      "id": 260,
+      "question": "Which player does Ilya watch a 'Fast and Furious' movie with on a plane?",
+      "options": [
+        "Cliff Marlow",
+        "Ryan Price",
+        "Hayden Pike",
+        "Victor St-Simon"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 263,
+      "question": "What is the name of the actress Shane's mother compares him to Carter Vaughan's girlfriend with?",
+      "options": [
+        "Rose Landry",
+        "Gloria",
+        "Svetlana",
+        "Maria"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "hard"
+    },
+    {
+      "id": 264,
+      "question": "What is the name of Ilya's stepmother?",
+      "options": [
+        "Irina",
+        "Polina",
+        "Svetlana",
+        "Yuna"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    },
+    {
+      "id": 267,
+      "question": "What brand of athletic undershirt does Shane have to wear for his endorsement contract?",
+      "options": [
+        "Nike",
+        "CCM",
+        "Adidas",
+        "Under Armour"
+      ],
+      "correctAnswer": 1,
+      "source": "book1",
+      "difficulty": "medium"
+    }
   ]
 }
