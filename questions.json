@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "lastUpdated": "2026-02-22",
+  "version": "1.10",
+  "lastUpdated": "2026-02-26",
   "questions": [
     {
       "id": 1,
@@ -172,19 +172,6 @@
       "difficulty": "easy"
     },
     {
-      "id": 17,
-      "question": "What is Ilya's sarcastic pet name for Shane?",
-      "options": [
-        "Goldie",
-        "Boring",
-        "Asshole",
-        "Darling"
-      ],
-      "correctAnswer": 2,
-      "source": "book1",
-      "difficulty": "easy"
-    },
-    {
       "id": 18,
       "question": "What is the name of Ilya's brother?",
       "options": [
@@ -212,12 +199,12 @@
     },
     {
       "id": 20,
-      "question": "In what city does the first \"gym scene\" hookup take place?",
+      "question": "In what city does the first hookup take place?",
       "options": [
-        "Los Angeles",
+        "Toronto",
         "Montreal",
         "Boston",
-        "Ottawa"
+        "Los Angeles"
       ],
       "correctAnswer": 0,
       "source": "book1",
@@ -259,7 +246,7 @@
         "91"
       ],
       "correctAnswer": 2,
-      "source": "book1",
+      "source": "tvshow",
       "difficulty": "hard"
     },
     {
@@ -302,21 +289,8 @@
       "difficulty": "easy"
     },
     {
-      "id": 30,
-      "question": "What is Ilya's favorite piece of clothing to wear at home?",
-      "options": [
-        "Hoodie",
-        "Tank top",
-        "Silk robe",
-        "Gym shorts"
-      ],
-      "correctAnswer": 1,
-      "source": "book1",
-      "difficulty": "medium"
-    },
-    {
       "id": 31,
-      "question": "Where do Shane and Ilya have their first penetrative sexual encounter?",
+      "question": "Where do Shane and Ilya have their first penetrative sexual encounter in the TV Show?",
       "options": [
         "Toronto hotel",
         "Shane's apartment in Montreal",
@@ -324,7 +298,7 @@
         "Sochi, Russia"
       ],
       "correctAnswer": 1,
-      "source": "book1",
+      "source": "tvshow",
       "difficulty": "hard"
     },
     {
@@ -365,19 +339,6 @@
       "correctAnswer": 1,
       "source": "book1",
       "difficulty": "hard"
-    },
-    {
-      "id": 36,
-      "question": "What is the name of the \"boring\" Montreal player Shane often rooms with?",
-      "options": [
-        "Hayden Pike",
-        "Gilbert Comeau",
-        "Patrice Drapeau",
-        "J.J. Boiziau"
-      ],
-      "correctAnswer": 0,
-      "source": "book1",
-      "difficulty": "medium"
     },
     {
       "id": 38,
@@ -454,7 +415,7 @@
         "Chief"
       ],
       "correctAnswer": 1,
-      "source": "book1",
+      "source": "tvshow",
       "difficulty": "hard"
     },
     {
@@ -534,19 +495,6 @@
       "correctAnswer": 1,
       "source": "book1",
       "difficulty": "easy"
-    },
-    {
-      "id": 56,
-      "question": "Who is the \"villain\" teammate in Montreal who is often locker-room toxic?",
-      "options": [
-        "Hayden Pike",
-        "J.J. Boiziau",
-        "Gilbert Comeau",
-        "Patrice Drapeau"
-      ],
-      "correctAnswer": 1,
-      "source": "book1",
-      "difficulty": "hard"
     },
     {
       "id": 57,
@@ -661,7 +609,7 @@
         "2",
         "3"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "source": "book1",
       "difficulty": "hard"
     },
@@ -680,7 +628,7 @@
     },
     {
       "id": 90,
-      "question": "Which character is the protagonist of the first book in the series (Game Changer)?",
+      "question": "Which character is the protagonist of Heated Rivalry book?",
       "options": [
         "Shane Hollander",
         "Scott Hunter",
@@ -714,19 +662,6 @@
         "Kneeing"
       ],
       "correctAnswer": 1,
-      "source": "book1",
-      "difficulty": "medium"
-    },
-    {
-      "id": 99,
-      "question": "What does Shane usually wear to bed?",
-      "options": [
-        "Pajama pants",
-        "Nothing",
-        "Sweatpants and a t-shirt",
-        "Gym shorts"
-      ],
-      "correctAnswer": 2,
       "source": "book1",
       "difficulty": "medium"
     },
@@ -1769,6 +1704,19 @@
       "correctAnswer": 1,
       "source": "book1",
       "difficulty": "medium"
-    }
+    },
+    {
+      "id": 219,
+      "question": "Where do Shane and Ilya have their first penetrative sexual encounter in the book?",
+      "options": [
+        "Montreal Hotel",
+        "Toronto Hotel",
+        "Ilya's house in Boston",
+        "Shane's house in Montreal"
+      ],
+      "correctAnswer": 0,
+      "source": "tvshow",
+      "difficulty": "book1"
+    },
   ]
 }
