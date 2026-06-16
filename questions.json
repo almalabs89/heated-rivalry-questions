@@ -1,5 +1,5 @@
 {
-  "version": "1.15",
+  "version": "1.16",
   "lastUpdated": "2026-03-01",
   "questions": [
     {
@@ -2511,6 +2511,20 @@
       "source": "tvshow",
       "difficulty": "medium",
       "submitter": "Anne"
+    },
+    {
+      "id": 291,
+      "question": "How many kids does Haden Pike have?",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "source": "tvshow",
+      "difficulty": "medium",
+      "submitter": "Holland"
     }
   ]
 }
