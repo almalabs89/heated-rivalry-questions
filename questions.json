@@ -1,5 +1,5 @@
 {
-  "version": "1.14",
+  "version": "1.15",
   "lastUpdated": "2026-03-01",
   "questions": [
     {
@@ -684,7 +684,7 @@
       "options": [
         "Connor Storrie",
         "Hudson Williams",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Callan Potter"
       ],
       "correctAnswer": 1,
@@ -696,7 +696,7 @@
       "question": "Which actor portrays Ilya Rozanov?",
       "options": [
         "Hudson Williams",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Connor Storrie",
         "Franco Lo Presti"
       ],
@@ -771,7 +771,7 @@
     },
     {
       "id": 124,
-      "question": "Actor François Arnaud, who plays Scott Hunter, is known for what personal disclosure in 2020?",
+      "question": "Actor Fran?ois Arnaud, who plays Scott Hunter, is known for what personal disclosure in 2020?",
       "options": [
         "He is a professional hockey player",
         "He is an out bisexual man",
@@ -799,7 +799,7 @@
       "id": 126,
       "question": "Which actress plays Rose Landry, the famous actress Shane dates for PR?",
       "options": [
-        "Sophie Nélisse",
+        "Sophie N?lisse",
         "Kamilla Kowal",
         "Ksenia Daniela Kharlamova",
         "Nadine Bhabha"
@@ -957,7 +957,7 @@
       "options": [
         "Matt Gordon",
         "Dylan Walsh",
-        "François Arnaud",
+        "Fran?ois Arnaud",
         "Wayne Ward"
       ],
       "correctAnswer": 1,
@@ -1593,7 +1593,7 @@
       "question": "Which actress plays Jackie Pike, Hayden's wife?",
       "options": [
         "Kamilla Kowal",
-        "Sophie Nélisse",
+        "Sophie N?lisse",
         "Nadine Bhabha",
         "Bianca Nugara"
       ],
@@ -2238,10 +2238,15 @@
       "source": "book1",
       "difficulty": "medium"
     },
-     {
+    {
       "id": 270,
       "question": "What is the name of the specific album on Ilya's phone where he saves old photos of Shane?",
-      "options": ["Shane", "Montreal", "Boring", "Doll"],
+      "options": [
+        "Shane",
+        "Montreal",
+        "Boring",
+        "Doll"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "medium"
@@ -2249,7 +2254,12 @@
     {
       "id": 271,
       "question": "Which specific flavor of hand pie is Ilya's favorite, which he brings to the Hollander house?",
-      "options": ["Apple", "Cherry", "Blueberry", "Raspberry"],
+      "options": [
+        "Apple",
+        "Cherry",
+        "Blueberry",
+        "Raspberry"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "hard"
@@ -2257,7 +2267,12 @@
     {
       "id": 272,
       "question": "What joke name does Ilya suggest for their potential future son to annoy Shane?",
-      "options": ["Roger Crowell Hollander-Rozanov", "Hayden Pike Rozanov", "Vladimir Rozanov", "J.J. Hollander"],
+      "options": [
+        "Roger Crowell Hollander-Rozanov",
+        "Hayden Pike Rozanov",
+        "Vladimir Rozanov",
+        "J.J. Hollander"
+      ],
       "correctAnswer": 0,
       "source": "book2",
       "difficulty": "medium"
@@ -2265,7 +2280,12 @@
     {
       "id": 273,
       "question": "Which fruit-themed dog sweater did Ilya want to buy for Anya, though the dog spa didn't have her size?",
-      "options": ["Pineapple", "Apple", "Strawberry", "Banana"],
+      "options": [
+        "Pineapple",
+        "Apple",
+        "Strawberry",
+        "Banana"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
@@ -2273,7 +2293,12 @@
     {
       "id": 274,
       "question": "What method does Shane use to study Russian while driving between Montreal and Ottawa?",
-      "options": ["DuoLingo", "A language lesson podcast", "Audiobooks", "Calling Ilya's father"],
+      "options": [
+        "DuoLingo",
+        "A language lesson podcast",
+        "Audiobooks",
+        "Calling Ilya's father"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
@@ -2281,7 +2306,12 @@
     {
       "id": 275,
       "question": "What is the occupation of Jordan Glencross's father, which Ilya uses to tease Ben Tremblay?",
-      "options": ["NHL Scout", "Police Officer", "Team Coach", "Lawyer"],
+      "options": [
+        "NHL Scout",
+        "Police Officer",
+        "Team Coach",
+        "Lawyer"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "medium"
@@ -2289,7 +2319,12 @@
     {
       "id": 276,
       "question": "Why did Ilya install dimmable 'sexy mood lighting' in the gym of his Ottawa house?",
-      "options": ["To hide his sweat", "For Shane's yoga and meditation", "Because he hates bright lights", "To look better in selfies"],
+      "options": [
+        "To hide his sweat",
+        "For Shane's yoga and meditation",
+        "Because he hates bright lights",
+        "To look better in selfies"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
@@ -2297,7 +2332,12 @@
     {
       "id": 277,
       "question": "What degree did Svetlana Vetrova finish before being offered a job with the Boston Bears?",
-      "options": ["Law degree", "MBA", "Sports Management", "Psychology"],
+      "options": [
+        "Law degree",
+        "MBA",
+        "Sports Management",
+        "Psychology"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "hard"
@@ -2305,7 +2345,12 @@
     {
       "id": 278,
       "question": "What specific plastic food item does Ilya 'eat' while playing with Amber Pike?",
-      "options": ["Pizza", "Hamburger", "Hot dog", "Croissant"],
+      "options": [
+        "Pizza",
+        "Hamburger",
+        "Hot dog",
+        "Croissant"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "hard"
@@ -2313,7 +2358,12 @@
     {
       "id": 279,
       "question": "What was Shane's Christmas gift to Ilya in the year they spent the holiday at Shane's parents' house?",
-      "options": ["A new watch", "A foosball table", "A custom Ducati helmet", "A puppy"],
+      "options": [
+        "A new watch",
+        "A foosball table",
+        "A custom Ducati helmet",
+        "A puppy"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
@@ -2321,7 +2371,12 @@
     {
       "id": 280,
       "question": "By exactly how many seconds did Shane beat Ilya in the All-Star fastest skater competition?",
-      "options": ["0.5 seconds", "0.25 seconds", "0.13 seconds", "1 full second"],
+      "options": [
+        "0.5 seconds",
+        "0.25 seconds",
+        "0.13 seconds",
+        "1 full second"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
@@ -2329,7 +2384,12 @@
     {
       "id": 281,
       "question": "How many Stanley Cup Champions banners hang in the Centaurs' arena rafters at the start of book two?",
-      "options": ["Zero", "One", "Three", "Five"],
+      "options": [
+        "Zero",
+        "One",
+        "Three",
+        "Five"
+      ],
       "correctAnswer": 0,
       "source": "book2",
       "difficulty": "easy"
@@ -2337,7 +2397,12 @@
     {
       "id": 282,
       "question": "What equipment is Shane balancing on in the gym when Ilya tells him he 'looks like a lifeguard/librarian'?",
-      "options": ["A treadmill", "A stability ball", "A yoga mat", "A rowing machine"],
+      "options": [
+        "A treadmill",
+        "A stability ball",
+        "A yoga mat",
+        "A rowing machine"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
@@ -2345,7 +2410,12 @@
     {
       "id": 283,
       "question": "What analogy does Dr. Galina use to describe Ilya's therapy process?",
-      "options": ["Building a Ferrari", "A hockey marathon", "A long road trip", "Fixing a broken stick"],
+      "options": [
+        "Building a Ferrari",
+        "A hockey marathon",
+        "A long road trip",
+        "Fixing a broken stick"
+      ],
       "correctAnswer": 0,
       "source": "book2",
       "difficulty": "medium"
@@ -2353,7 +2423,12 @@
     {
       "id": 284,
       "question": "Which specific food allergy does Shane worry about while reviewing the camp medical forms?",
-      "options": ["Peanuts", "Dairy", "Eggs", "Shellfish"],
+      "options": [
+        "Peanuts",
+        "Dairy",
+        "Eggs",
+        "Shellfish"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
@@ -2361,7 +2436,12 @@
     {
       "id": 285,
       "question": "Which superhero was Wyatt Hayes dressed as for Ilya's Halloween party?",
-      "options": ["Spider-Man", "Batman", "Adam Strange", "Green Lantern"],
+      "options": [
+        "Spider-Man",
+        "Batman",
+        "Adam Strange",
+        "Green Lantern"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
@@ -2369,7 +2449,12 @@
     {
       "id": 286,
       "question": "What color is the bow Anya wears on her head for Shane and Ilya's wedding?",
-      "options": ["White", "Burgundy", "Blue", "Gold"],
+      "options": [
+        "White",
+        "Burgundy",
+        "Blue",
+        "Gold"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
@@ -2377,7 +2462,12 @@
     {
       "id": 287,
       "question": "What item did the 'Fuck Rozanov' fan in Boston sit near during the game, according to Evan Dykstra?",
-      "options": ["The Ottawa bench", "The penalty box", "The left corner", "The Centaurs' goal"],
+      "options": [
+        "The Ottawa bench",
+        "The penalty box",
+        "The left corner",
+        "The Centaurs' goal"
+      ],
       "correctAnswer": 2,
       "source": "book2",
       "difficulty": "hard"
@@ -2385,7 +2475,12 @@
     {
       "id": 288,
       "question": "What did Shane eat for his 30th birthday celebration at the cottage?",
-      "options": ["Grilled salmon and kale", "Two hamburgers and chocolate cake", "Tacos and beer", "Chicken parmesan"],
+      "options": [
+        "Grilled salmon and kale",
+        "Two hamburgers and chocolate cake",
+        "Tacos and beer",
+        "Chicken parmesan"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
@@ -2393,10 +2488,29 @@
     {
       "id": 289,
       "question": "What does Ilya do to the first die he rolls during the Yahtzee game with Shane's parents?",
-      "options": ["Blows on it", "Kisses it", "Shakes it for a long time", "Taps it on the table"],
+      "options": [
+        "Blows on it",
+        "Kisses it",
+        "Shakes it for a long time",
+        "Taps it on the table"
+      ],
       "correctAnswer": 1,
       "source": "book2",
       "difficulty": "medium"
+    },
+    {
+      "id": 290,
+      "question": "What do his teammates call Ilya?",
+      "options": [
+        "Roz",
+        "Rozanov",
+        "Rozy",
+        "Both Roz and Rozy"
+      ],
+      "correctAnswer": 3,
+      "source": "tvshow",
+      "difficulty": "medium",
+      "submitter": "Anne"
     }
   ]
 }
